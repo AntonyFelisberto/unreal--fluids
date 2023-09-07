@@ -2232,3 +2232,1236 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.09.07-17.59.01:418][685]LogPlayLevel: Display: Destroying online subsystem :Context_4
 [2023.09.07-17.59.39:886][876]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
 [2023.09.07-17.59.39:889][876]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.010
+[2023.09.07-18.00.43:101][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.09.07-18.00.45:679][ 66]LogSlate: Window 'Save Content' being destroyed
+[2023.09.07-18.00.54:497][ 66]LogSlate: Window 'Save Level As' being destroyed
+[2023.09.07-18.00.54:599][ 66]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/maps_HLOD0_Instancing
+/Game/__ExternalActors__/maps/6/UQ/5XEURYZ1AZOVHXEB3JBI8X
+/Game/__ExternalObjects__/maps/6/SQ/PZRYL1FEZGS52WA6VN7SMU
+/Game/__ExternalObjects__/maps/7/B5/P0GGLKWVIPXXHT7P0CT9BX
+/Game/__ExternalObjects__/maps/8/LX/3UYPF8JFLJEEFY1W4L4868
+/Game/__ExternalObjects__/maps/A/TE/06FPVMN8BKNIBVOX366R54
+/Game/__ExternalObjects__/maps/B/EV/FTZZTHXGWFRB6UQUUV700O
+/Game/__ExternalActors__/maps/8/E2/ZFXOSHZAERR3KA52IEQ7W7
+/Game/__ExternalActors__/maps/9/R3/6V5HM46YZOKEUTY1VJ68VI
+/Game/__ExternalActors__/maps/B/DY/0F5OUW3N9KNACS7V0V2VJY
+/Game/__ExternalActors__/maps/4/XT/6MZT06Z7X9DRPAWOXXC3C7
+/Game/__ExternalActors__/maps/8/0F/Z5HYGLN5F4VRFEOWHKTJN2
+/Game/__ExternalActors__/maps/0/IT/8KO2G0K90OU0AONF1E7AN0
+/Game/__ExternalActors__/maps/5/TL/AHRC9WIQX1EV7BFK2D4MA8
+/Game/__ExternalActors__/maps/B/0V/COFZ3QBJIKM0PIJMVL15CD
+/Game/__ExternalActors__/maps/6/WX/AXD1D6CIML21SQT8FLLOY2
+/Game/__ExternalActors__/maps/D/UO/INYGZR6PU8LD9VDOX6UW4T
+/Game/__ExternalActors__/maps/7/7X/CDXXHYJHUSDPSLGXULECEB
+/Game/__ExternalActors__/maps/2/KM/GWS7V2VOKW7WHWYW1KTEUJ
+/Game/__ExternalActors__/maps/9/84/26WLBWTRHV9HQG13U2H7DM
+/Game/__ExternalActors__/maps/0/YJ/ZN0XPG1KLPXX4B13G60EUT
+/Game/__ExternalActors__/maps/7/55/HN3XBJRHPJOZAR9P02FXF2
+/Game/__ExternalActors__/maps/0/0O/V6GHYGIGG05YRXN9BRA4Y5
+/Game/__ExternalActors__/maps/D/EL/C7FY3QY9029NHYK0HH7ZBW
+/Game/__ExternalActors__/maps/4/AB/N92L6B7NXFKSEKX47SA3TO
+/Game/__ExternalActors__/maps/5/LO/68QZK2VJQJK96YF1MNN2ZZ
+/Game/__ExternalActors__/maps/9/ZI/MZXDVC7WIK4Z7K241F9UK8
+/Game/__ExternalActors__/maps/D/SM/O5RHB0C4EO631YV1579GJ2
+/Game/__ExternalActors__/maps/3/N4/2EV7IBCA92OEG91APL5D9X
+/Game/__ExternalActors__/maps/6/O6/1BGSNQS61BKO3A184HE4SL
+/Game/__ExternalActors__/maps/E/9Y/KFC10NYL5VSAQ8UCM5HHIW
+/Game/__ExternalActors__/maps/B/HY/ARBU7UCHU74H659RLDQME5
+/Game/__ExternalActors__/maps/4/2P/SG5AOCDCNTG5DEIPX0AKDH
+/Game/__ExternalActors__/maps/8/MR/R8ZCLB5LBJTDMLN2DON255
+/Game/__ExternalActors__/maps/4/US/8TXAGIP72IQX4GBI5TVQTJ
+/Game/__ExternalActors__/maps/4/3S/3H4FPFCGLYVFLHRBNIQJQK
+/Game/__ExternalActors__/maps/A/41/OUYL34IR13MUFI69LWATHN
+/Game/__ExternalActors__/maps/9/TA/XS7CHXP0JRTQKYMCYUVUUH
+/Game/__ExternalActors__/maps/5/2W/X98O8CAZYUKX2O4BMDB7DT
+/Game/__ExternalActors__/maps/4/47/F0AOE869XJC81YPUOI63H5
+/Game/__ExternalActors__/maps/7/VR/ISYZO325PYCW7YT5H0TVRI
+/Game/__ExternalActors__/maps/A/D6/1CXYF9RF4LD4T9CNRT5IZO
+/Game/__ExternalActors__/maps/5/0D/8I77QFBCYO6LN3NXF9YDTI
+/Game/__ExternalActors__/maps/0/63/6NKEZRJRLQ6YB8CFYUWC3B
+/Game/__ExternalActors__/maps/E/1W/3VO43QIFLSQ7WVWZ18F3GP
+/Game/__ExternalActors__/maps/9/7S/7QHM8WX0P0H9PHXSMJPAN6
+/Game/__ExternalActors__/maps/2/9Y/09B4TXBEW2R1HJYI3R8AQ8
+/Game/__ExternalActors__/maps/A/B2/C27NFXES7HNMBXXL0LSZA6
+/Game/__ExternalActors__/maps/5/KA/RREO5A0M123SG9G0AZMTX1
+/Game/__ExternalActors__/maps/1/KC/394IME3697JJX51LQC91ZI
+/Game/__ExternalActors__/maps/E/BN/2ZI2BYGYJT9C39ULNSMO1T
+/Game/__ExternalActors__/maps/C/B7/XTALKAUNJDK8486DRBUTYM
+/Game/__ExternalActors__/maps/C/0S/9JEN5FW9YCX7TFOEJAKOTS
+/Game/__ExternalActors__/maps/A/88/WT2T1CGDN7ERQIWIH6STBB
+/Game/__ExternalActors__/maps/2/E6/ZII7SKZU390GW18UIAQ3MG
+/Game/__ExternalActors__/maps/D/6X/SGBIXH87D85VV1Z9GHEUHN
+/Game/__ExternalActors__/maps/C/G5/P03IYPJTUKELON2BR1K3UL
+/Game/__ExternalActors__/maps/2/HM/QNJ1AFGUDT8YCPD8MZVVYB
+/Game/__ExternalActors__/maps/2/2E/9AUY0T6UAHP6OJ0UW7PJUO
+/Game/__ExternalActors__/maps/0/D2/XLA9LARPXKTH6MJJ3DKHZR
+/Game/__ExternalActors__/maps/6/P2/V3FKXXSS1KX2AXONEQT2AX
+/Game/__ExternalActors__/maps/0/0R/15HD4GK6COU607I7GP5VGL
+/Game/__ExternalActors__/maps/B/36/NKE4CF7GZ29PSTSD4VJRX8
+/Game/__ExternalActors__/maps/5/QN/7GDK3BFGM99YNOBM9VILXT
+/Game/__ExternalActors__/maps/0/WS/37F17KMT1OIOHAFLO6S1D4
+/Game/__ExternalActors__/maps/3/32/T57893FQC5JGIGRIU3RNST
+/Game/__ExternalActors__/maps/4/JL/148Y7NNVP4UTMIWSHY4SFB
+/Game/__ExternalActors__/maps/0/4K/GA5CMJ9WCAFQCQQ2B6TNOQ
+/Game/__ExternalActors__/maps/4/RC/EMPQKGJ9BBCEQDBMPR0YD4
+/Game/__ExternalActors__/maps/E/Z3/1EBO15VC927A97HPB5T5V6
+/Game/__ExternalActors__/maps/5/NC/DB09WONDGIXP0LO3HFZ51R
+/Game/__ExternalActors__/maps/8/BX/5B23YJ4N4OKQPF5SE4QUXF
+/Game/__ExternalActors__/maps/6/QX/H5DQ6ZXXZ1P2T2RMKHRQMT
+/Game/__ExternalActors__/maps/F/2B/2U2MC4Q9F4OQL1HRVLR0QT
+/Game/__ExternalActors__/maps/9/AO/P9AJO459REPAUT0IFC7XHS
+/Game/__ExternalActors__/maps/9/WN/YOQGNHEAU1MQ3ELAJ8K0S3
+/Game/__ExternalActors__/maps/9/HA/OVZG9V82BBCKLQAALNVH0S
+/Game/__ExternalActors__/maps/3/R3/S3UTAQ58HMBUHZL8BKOOQH
+/Game/__ExternalActors__/maps/C/VN/5ZY1TON9PEW4B1THGKGWBW
+/Game/__ExternalActors__/maps/C/WQ/2U0LUXRT08I4KCR54836H9
+/Game/__ExternalActors__/maps/A/E2/CZZJ3PE9F4ETGM225OOWLL
+/Game/__ExternalActors__/maps/9/A4/ORGQ01MZ8X0WX14AIIA8H2
+/Game/__ExternalActors__/maps/0/0D/PKMV550PGPTGWX6BT3UYP5
+/Game/__ExternalActors__/maps/6/MS/ANTKPOIF5Q8FY8QCYG0M0K
+/Game/__ExternalActors__/maps/2/VB/7V6PKQE7QMJ0KDVKZ1M0QK
+/Game/__ExternalActors__/maps/D/AK/57WJAI4LIR3FL3OTKTWIUG
+/Game/__ExternalActors__/maps/8/20/38GEUTX9K5JHYZNGF3WV2N
+/Game/__ExternalActors__/maps/C/VT/J8QZV7B8W7OC6X04QWEHFO
+/Game/__ExternalActors__/maps/1/TO/EI2N6HEODBLUS4BQKFQIN3
+/Game/__ExternalActors__/maps/4/UG/MRFVQZ9GYNGOWRYP07F1M8
+/Game/__ExternalActors__/maps/B/HG/QI3B0EFV8OYK010SMVRY49
+/Game/__ExternalActors__/maps/D/96/NRZQ93IQJ1VALCM542QE2O
+/Game/__ExternalActors__/maps/A/3J/Y2T71NQZM86F06H19TNU4C
+/Game/__ExternalActors__/maps/B/LZ/T7Z4N0TW9446WMF2LO0E9X
+/Game/__ExternalActors__/maps/B/CS/8RLIM18JYV36ZOFQACBN2J
+/Game/__ExternalActors__/maps/C/TI/U3Y0IMT39RABZ37UYBXU8P
+/Game/__ExternalActors__/maps/8/76/3ON97ZFSS0CVLC9ZZF0AVB
+/Game/__ExternalActors__/maps/D/7X/24OM2C8N03HDPE3MKAO1EH
+/Game/__ExternalActors__/maps/6/3J/55YI2XFJAJ59NJKV9DZRBD
+/Game/__ExternalActors__/maps/8/BX/EAE3UEHFA6KPUGUN2RIIKF
+/Game/__ExternalActors__/maps/4/IE/FK3DX7I7KOR1UIZWQS8AIP
+/Game/__ExternalActors__/maps/9/NH/2XVUSDV40C20NO297VY1UK
+[2023.09.07-18.00.54:599][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maps_HLOD0_Instancing" FILE="F:/github/unreal--fluids/MyProject/Content/maps_HLOD0_Instancing.uasset" SILENT=true
+[2023.09.07-18.00.54:607][ 66]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.007533 seconds
+[2023.09.07-18.00.54:611][ 66]LogSavePackage: Moving output files for package: /Game/maps_HLOD0_Instancing
+[2023.09.07-18.00.54:611][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/maps_HLOD0_Instancing93D8494B4498BCE42F86A1AD9C469A42.tmp' to 'F:/github/unreal--fluids/MyProject/Content/maps_HLOD0_Instancing.uasset'
+[2023.09.07-18.00.54:616][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/6/UQ/5XEURYZ1AZOVHXEB3JBI8X
+[2023.09.07-18.00.54:616][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/5XEURYZ1AZOVHXEB3JBI8X4639C59145300168E709C9821999FEB1.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/6/UQ/5XEURYZ1AZOVHXEB3JBI8X.uasset'
+[2023.09.07-18.00.54:621][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/maps/6/SQ/PZRYL1FEZGS52WA6VN7SMU
+[2023.09.07-18.00.54:622][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/PZRYL1FEZGS52WA6VN7SMU9FB435464D8A0DA6CAD10786754F5527.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalObjects__/maps/6/SQ/PZRYL1FEZGS52WA6VN7SMU.uasset'
+[2023.09.07-18.00.54:625][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/maps/7/B5/P0GGLKWVIPXXHT7P0CT9BX
+[2023.09.07-18.00.54:625][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/P0GGLKWVIPXXHT7P0CT9BX53197A6F46C3DDEDDE51058074B28507.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalObjects__/maps/7/B5/P0GGLKWVIPXXHT7P0CT9BX.uasset'
+[2023.09.07-18.00.54:630][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/maps/8/LX/3UYPF8JFLJEEFY1W4L4868
+[2023.09.07-18.00.54:630][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/3UYPF8JFLJEEFY1W4L4868E4679A32427D48DC4F642BBE031896EF.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalObjects__/maps/8/LX/3UYPF8JFLJEEFY1W4L4868.uasset'
+[2023.09.07-18.00.54:633][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/maps/A/TE/06FPVMN8BKNIBVOX366R54
+[2023.09.07-18.00.54:633][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/06FPVMN8BKNIBVOX366R54450560734928C343A86013A1FDFF2D82.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalObjects__/maps/A/TE/06FPVMN8BKNIBVOX366R54.uasset'
+[2023.09.07-18.00.54:637][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/maps/B/EV/FTZZTHXGWFRB6UQUUV700O
+[2023.09.07-18.00.54:637][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/FTZZTHXGWFRB6UQUUV700O61C5235B424849FE340F1D921DF747BD.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalObjects__/maps/B/EV/FTZZTHXGWFRB6UQUUV700O.uasset'
+[2023.09.07-18.00.54:643][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/8/E2/ZFXOSHZAERR3KA52IEQ7W7
+[2023.09.07-18.00.54:643][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/ZFXOSHZAERR3KA52IEQ7W73066209F40D1B430221BF08A64624EBB.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/8/E2/ZFXOSHZAERR3KA52IEQ7W7.uasset'
+[2023.09.07-18.00.54:647][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/9/R3/6V5HM46YZOKEUTY1VJ68VI
+[2023.09.07-18.00.54:647][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/6V5HM46YZOKEUTY1VJ68VIA5CC1F7045DD7036211F35A73374D552.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/9/R3/6V5HM46YZOKEUTY1VJ68VI.uasset'
+[2023.09.07-18.00.54:651][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/B/DY/0F5OUW3N9KNACS7V0V2VJY
+[2023.09.07-18.00.54:651][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/0F5OUW3N9KNACS7V0V2VJY04140F264503B4504FF343BD7750771B.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/B/DY/0F5OUW3N9KNACS7V0V2VJY.uasset'
+[2023.09.07-18.00.54:655][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/4/XT/6MZT06Z7X9DRPAWOXXC3C7
+[2023.09.07-18.00.54:655][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/6MZT06Z7X9DRPAWOXXC3C732AFD27A42A255F262E0EEAF0850E39E.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/4/XT/6MZT06Z7X9DRPAWOXXC3C7.uasset'
+[2023.09.07-18.00.54:660][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/8/0F/Z5HYGLN5F4VRFEOWHKTJN2
+[2023.09.07-18.00.54:660][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/Z5HYGLN5F4VRFEOWHKTJN2CB032D7E40F80CF4A942CF8B5A164C71.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/8/0F/Z5HYGLN5F4VRFEOWHKTJN2.uasset'
+[2023.09.07-18.00.54:663][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/0/IT/8KO2G0K90OU0AONF1E7AN0
+[2023.09.07-18.00.54:663][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/8KO2G0K90OU0AONF1E7AN032220AD543D49EDDE0C6D4907C590994.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/0/IT/8KO2G0K90OU0AONF1E7AN0.uasset'
+[2023.09.07-18.00.54:667][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/5/TL/AHRC9WIQX1EV7BFK2D4MA8
+[2023.09.07-18.00.54:667][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/AHRC9WIQX1EV7BFK2D4MA84B6B862E4F55867241A36EB9BB59A921.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/5/TL/AHRC9WIQX1EV7BFK2D4MA8.uasset'
+[2023.09.07-18.00.54:671][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/B/0V/COFZ3QBJIKM0PIJMVL15CD
+[2023.09.07-18.00.54:671][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/COFZ3QBJIKM0PIJMVL15CDB511EC8C42B8812147C6BBA3185703A7.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/B/0V/COFZ3QBJIKM0PIJMVL15CD.uasset'
+[2023.09.07-18.00.54:681][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/6/WX/AXD1D6CIML21SQT8FLLOY2
+[2023.09.07-18.00.54:681][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/AXD1D6CIML21SQT8FLLOY213F6EA1149C9BA6B8681CD80EF8A54B3.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/6/WX/AXD1D6CIML21SQT8FLLOY2.uasset'
+[2023.09.07-18.00.54:689][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/D/UO/INYGZR6PU8LD9VDOX6UW4T
+[2023.09.07-18.00.54:689][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/INYGZR6PU8LD9VDOX6UW4TD18360B3441D05B2302A54A837EDDC61.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/D/UO/INYGZR6PU8LD9VDOX6UW4T.uasset'
+[2023.09.07-18.00.54:699][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/7/7X/CDXXHYJHUSDPSLGXULECEB
+[2023.09.07-18.00.54:699][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/CDXXHYJHUSDPSLGXULECEB2341224248AE996B231968AF13EABDD6.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/7/7X/CDXXHYJHUSDPSLGXULECEB.uasset'
+[2023.09.07-18.00.54:708][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/2/KM/GWS7V2VOKW7WHWYW1KTEUJ
+[2023.09.07-18.00.54:708][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/GWS7V2VOKW7WHWYW1KTEUJ4BA67B20499288486335A0B337A03CBB.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/2/KM/GWS7V2VOKW7WHWYW1KTEUJ.uasset'
+[2023.09.07-18.00.54:718][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/9/84/26WLBWTRHV9HQG13U2H7DM
+[2023.09.07-18.00.54:718][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/26WLBWTRHV9HQG13U2H7DM23A9112246A79CD1140862955ACB6C62.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/9/84/26WLBWTRHV9HQG13U2H7DM.uasset'
+[2023.09.07-18.00.54:727][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/0/YJ/ZN0XPG1KLPXX4B13G60EUT
+[2023.09.07-18.00.54:727][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/ZN0XPG1KLPXX4B13G60EUT069779934704CC8E4C8E5DB6DEA66DB2.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/0/YJ/ZN0XPG1KLPXX4B13G60EUT.uasset'
+[2023.09.07-18.00.54:736][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/7/55/HN3XBJRHPJOZAR9P02FXF2
+[2023.09.07-18.00.54:736][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/HN3XBJRHPJOZAR9P02FXF27ED0387549C19C3F53D05B910C93D7C3.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/7/55/HN3XBJRHPJOZAR9P02FXF2.uasset'
+[2023.09.07-18.00.54:745][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/0/0O/V6GHYGIGG05YRXN9BRA4Y5
+[2023.09.07-18.00.54:745][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/V6GHYGIGG05YRXN9BRA4Y52791C5AF418068B5D88E64ABCA8148D9.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/0/0O/V6GHYGIGG05YRXN9BRA4Y5.uasset'
+[2023.09.07-18.00.54:753][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/D/EL/C7FY3QY9029NHYK0HH7ZBW
+[2023.09.07-18.00.54:753][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/C7FY3QY9029NHYK0HH7ZBWC83334844AF162AFD3829DA05F8E4F8B.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/D/EL/C7FY3QY9029NHYK0HH7ZBW.uasset'
+[2023.09.07-18.00.54:761][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/4/AB/N92L6B7NXFKSEKX47SA3TO
+[2023.09.07-18.00.54:761][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/N92L6B7NXFKSEKX47SA3TOA1E2E9E14E284A7E271AE9B370B350C5.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/4/AB/N92L6B7NXFKSEKX47SA3TO.uasset'
+[2023.09.07-18.00.54:769][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/5/LO/68QZK2VJQJK96YF1MNN2ZZ
+[2023.09.07-18.00.54:769][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/68QZK2VJQJK96YF1MNN2ZZB6FEC98F4F9336E20042A3BD8B0EA2D3.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/5/LO/68QZK2VJQJK96YF1MNN2ZZ.uasset'
+[2023.09.07-18.00.54:778][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/9/ZI/MZXDVC7WIK4Z7K241F9UK8
+[2023.09.07-18.00.54:778][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/MZXDVC7WIK4Z7K241F9UK85F2CB53C422D262386492EB90589241A.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/9/ZI/MZXDVC7WIK4Z7K241F9UK8.uasset'
+[2023.09.07-18.00.54:786][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/D/SM/O5RHB0C4EO631YV1579GJ2
+[2023.09.07-18.00.54:786][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/O5RHB0C4EO631YV1579GJ2243918C14EFF6995AEE6B8A3CAB24418.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/D/SM/O5RHB0C4EO631YV1579GJ2.uasset'
+[2023.09.07-18.00.54:795][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/3/N4/2EV7IBCA92OEG91APL5D9X
+[2023.09.07-18.00.54:795][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/2EV7IBCA92OEG91APL5D9X43CFAA6B4E7F5EF15D6BE2AD58CF3736.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/3/N4/2EV7IBCA92OEG91APL5D9X.uasset'
+[2023.09.07-18.00.54:804][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/6/O6/1BGSNQS61BKO3A184HE4SL
+[2023.09.07-18.00.54:804][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/1BGSNQS61BKO3A184HE4SL66A550E2417FECD92E293DB42E894466.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/6/O6/1BGSNQS61BKO3A184HE4SL.uasset'
+[2023.09.07-18.00.54:812][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/E/9Y/KFC10NYL5VSAQ8UCM5HHIW
+[2023.09.07-18.00.54:812][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/KFC10NYL5VSAQ8UCM5HHIW6CDA00DA42068EAE9FD2C0A370312B7B.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/E/9Y/KFC10NYL5VSAQ8UCM5HHIW.uasset'
+[2023.09.07-18.00.54:820][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/B/HY/ARBU7UCHU74H659RLDQME5
+[2023.09.07-18.00.54:820][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/ARBU7UCHU74H659RLDQME578D9C6C7442A11519D3FA7A9DE4E6E2B.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/B/HY/ARBU7UCHU74H659RLDQME5.uasset'
+[2023.09.07-18.00.54:828][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/4/2P/SG5AOCDCNTG5DEIPX0AKDH
+[2023.09.07-18.00.54:828][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/SG5AOCDCNTG5DEIPX0AKDHB54E4D4B49E24C2D59D4DDABDD2E42DB.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/4/2P/SG5AOCDCNTG5DEIPX0AKDH.uasset'
+[2023.09.07-18.00.54:837][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/8/MR/R8ZCLB5LBJTDMLN2DON255
+[2023.09.07-18.00.54:837][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/R8ZCLB5LBJTDMLN2DON255A9FE0E8349A10A01AA70E7B2D760CD01.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/8/MR/R8ZCLB5LBJTDMLN2DON255.uasset'
+[2023.09.07-18.00.54:845][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/4/US/8TXAGIP72IQX4GBI5TVQTJ
+[2023.09.07-18.00.54:845][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/8TXAGIP72IQX4GBI5TVQTJBF802A2F4E7C4BA72CEC68B6330C67A4.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/4/US/8TXAGIP72IQX4GBI5TVQTJ.uasset'
+[2023.09.07-18.00.54:853][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/4/3S/3H4FPFCGLYVFLHRBNIQJQK
+[2023.09.07-18.00.54:853][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/3H4FPFCGLYVFLHRBNIQJQKB0ABEDDA4190C8EE72E908A9D1C464B8.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/4/3S/3H4FPFCGLYVFLHRBNIQJQK.uasset'
+[2023.09.07-18.00.54:861][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/A/41/OUYL34IR13MUFI69LWATHN
+[2023.09.07-18.00.54:861][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/OUYL34IR13MUFI69LWATHN4B6329BD46B7B9C1FB2A3B8C4AD878D1.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/A/41/OUYL34IR13MUFI69LWATHN.uasset'
+[2023.09.07-18.00.54:869][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/9/TA/XS7CHXP0JRTQKYMCYUVUUH
+[2023.09.07-18.00.54:869][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/XS7CHXP0JRTQKYMCYUVUUHAB968DB649613B1BD23B7184B0F0F0B5.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/9/TA/XS7CHXP0JRTQKYMCYUVUUH.uasset'
+[2023.09.07-18.00.54:877][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/5/2W/X98O8CAZYUKX2O4BMDB7DT
+[2023.09.07-18.00.54:877][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/X98O8CAZYUKX2O4BMDB7DT6EEA4F104ABFBFE65F9F588A6541B730.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/5/2W/X98O8CAZYUKX2O4BMDB7DT.uasset'
+[2023.09.07-18.00.54:886][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/4/47/F0AOE869XJC81YPUOI63H5
+[2023.09.07-18.00.54:886][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/F0AOE869XJC81YPUOI63H501E101BF4E864B9C0CB2EEBB7EEF91BC.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/4/47/F0AOE869XJC81YPUOI63H5.uasset'
+[2023.09.07-18.00.54:894][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/7/VR/ISYZO325PYCW7YT5H0TVRI
+[2023.09.07-18.00.54:894][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/ISYZO325PYCW7YT5H0TVRI5F515BFD4F46E36566BA4BB5D2C86E90.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/7/VR/ISYZO325PYCW7YT5H0TVRI.uasset'
+[2023.09.07-18.00.54:902][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/A/D6/1CXYF9RF4LD4T9CNRT5IZO
+[2023.09.07-18.00.54:902][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/1CXYF9RF4LD4T9CNRT5IZOC222D59C430379CA918F9787A0E68C94.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/A/D6/1CXYF9RF4LD4T9CNRT5IZO.uasset'
+[2023.09.07-18.00.54:912][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/5/0D/8I77QFBCYO6LN3NXF9YDTI
+[2023.09.07-18.00.54:912][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/8I77QFBCYO6LN3NXF9YDTI0BCE070A4CED8E1F41EF14BA26FA6BA5.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/5/0D/8I77QFBCYO6LN3NXF9YDTI.uasset'
+[2023.09.07-18.00.54:920][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/0/63/6NKEZRJRLQ6YB8CFYUWC3B
+[2023.09.07-18.00.54:920][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/6NKEZRJRLQ6YB8CFYUWC3BA5E8EC914A9569B1A2F1C6AC0ED0677C.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/0/63/6NKEZRJRLQ6YB8CFYUWC3B.uasset'
+[2023.09.07-18.00.54:928][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/E/1W/3VO43QIFLSQ7WVWZ18F3GP
+[2023.09.07-18.00.54:928][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/3VO43QIFLSQ7WVWZ18F3GPE1D112904A208AB850D352BCA3C447F0.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/E/1W/3VO43QIFLSQ7WVWZ18F3GP.uasset'
+[2023.09.07-18.00.54:936][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/9/7S/7QHM8WX0P0H9PHXSMJPAN6
+[2023.09.07-18.00.54:936][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/7QHM8WX0P0H9PHXSMJPAN62C7A21544834D5A1E32AA6B7743FC213.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/9/7S/7QHM8WX0P0H9PHXSMJPAN6.uasset'
+[2023.09.07-18.00.54:945][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/2/9Y/09B4TXBEW2R1HJYI3R8AQ8
+[2023.09.07-18.00.54:945][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/09B4TXBEW2R1HJYI3R8AQ84A0D8CBA4B6B6AD7B1C83CB273BE3FFA.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/2/9Y/09B4TXBEW2R1HJYI3R8AQ8.uasset'
+[2023.09.07-18.00.54:953][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/A/B2/C27NFXES7HNMBXXL0LSZA6
+[2023.09.07-18.00.54:953][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/C27NFXES7HNMBXXL0LSZA659B4E25F4AABC3D0598F0B9473324171.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/A/B2/C27NFXES7HNMBXXL0LSZA6.uasset'
+[2023.09.07-18.00.54:961][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/5/KA/RREO5A0M123SG9G0AZMTX1
+[2023.09.07-18.00.54:961][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/RREO5A0M123SG9G0AZMTX193C4587346C9CC3F09CF1C846113D005.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/5/KA/RREO5A0M123SG9G0AZMTX1.uasset'
+[2023.09.07-18.00.54:969][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/1/KC/394IME3697JJX51LQC91ZI
+[2023.09.07-18.00.54:969][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/394IME3697JJX51LQC91ZI5E79E3F24782F6F4F0D48FAA5A0E2EA6.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/1/KC/394IME3697JJX51LQC91ZI.uasset'
+[2023.09.07-18.00.54:977][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/E/BN/2ZI2BYGYJT9C39ULNSMO1T
+[2023.09.07-18.00.54:977][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/2ZI2BYGYJT9C39ULNSMO1TE4D055884093F457E7E22E844D94E8A6.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/E/BN/2ZI2BYGYJT9C39ULNSMO1T.uasset'
+[2023.09.07-18.00.54:986][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/C/B7/XTALKAUNJDK8486DRBUTYM
+[2023.09.07-18.00.54:986][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/XTALKAUNJDK8486DRBUTYM5455E5AB4361EB36516622B106ED0919.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/C/B7/XTALKAUNJDK8486DRBUTYM.uasset'
+[2023.09.07-18.00.54:994][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/C/0S/9JEN5FW9YCX7TFOEJAKOTS
+[2023.09.07-18.00.54:994][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/9JEN5FW9YCX7TFOEJAKOTS26E2E4654701488C6E587CA248B2644B.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/C/0S/9JEN5FW9YCX7TFOEJAKOTS.uasset'
+[2023.09.07-18.00.55:003][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/A/88/WT2T1CGDN7ERQIWIH6STBB
+[2023.09.07-18.00.55:003][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/WT2T1CGDN7ERQIWIH6STBBD1C8F94642FDAD2614DA78B41E0DC7D7.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/A/88/WT2T1CGDN7ERQIWIH6STBB.uasset'
+[2023.09.07-18.00.55:012][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/2/E6/ZII7SKZU390GW18UIAQ3MG
+[2023.09.07-18.00.55:012][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/ZII7SKZU390GW18UIAQ3MG793B4C164E3100B0BEFA03B547ECF508.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/2/E6/ZII7SKZU390GW18UIAQ3MG.uasset'
+[2023.09.07-18.00.55:020][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/D/6X/SGBIXH87D85VV1Z9GHEUHN
+[2023.09.07-18.00.55:020][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/SGBIXH87D85VV1Z9GHEUHN7D09839D491321AF05A8258D94F08E27.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/D/6X/SGBIXH87D85VV1Z9GHEUHN.uasset'
+[2023.09.07-18.00.55:029][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/C/G5/P03IYPJTUKELON2BR1K3UL
+[2023.09.07-18.00.55:029][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/P03IYPJTUKELON2BR1K3UL53F6B71D4C10172362FB96BE58651E9F.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/C/G5/P03IYPJTUKELON2BR1K3UL.uasset'
+[2023.09.07-18.00.55:037][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/2/HM/QNJ1AFGUDT8YCPD8MZVVYB
+[2023.09.07-18.00.55:037][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/QNJ1AFGUDT8YCPD8MZVVYB23DD9C1A4ED6A1BCD17CBEBF4D66DBF4.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/2/HM/QNJ1AFGUDT8YCPD8MZVVYB.uasset'
+[2023.09.07-18.00.55:044][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/2/2E/9AUY0T6UAHP6OJ0UW7PJUO
+[2023.09.07-18.00.55:044][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/9AUY0T6UAHP6OJ0UW7PJUODC342A89498408BCD154CAAFD413A5E8.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/2/2E/9AUY0T6UAHP6OJ0UW7PJUO.uasset'
+[2023.09.07-18.00.55:053][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/0/D2/XLA9LARPXKTH6MJJ3DKHZR
+[2023.09.07-18.00.55:053][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/XLA9LARPXKTH6MJJ3DKHZREA1469B64C3F52A5011E60BE1CBA4DA5.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/0/D2/XLA9LARPXKTH6MJJ3DKHZR.uasset'
+[2023.09.07-18.00.55:061][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/6/P2/V3FKXXSS1KX2AXONEQT2AX
+[2023.09.07-18.00.55:061][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/V3FKXXSS1KX2AXONEQT2AXDA5AA43C4DFDE0D733687787D8085CDC.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/6/P2/V3FKXXSS1KX2AXONEQT2AX.uasset'
+[2023.09.07-18.00.55:070][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/0/0R/15HD4GK6COU607I7GP5VGL
+[2023.09.07-18.00.55:070][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/15HD4GK6COU607I7GP5VGL850C80154BBF4BC70165AE87442D9B3B.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/0/0R/15HD4GK6COU607I7GP5VGL.uasset'
+[2023.09.07-18.00.55:077][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/B/36/NKE4CF7GZ29PSTSD4VJRX8
+[2023.09.07-18.00.55:078][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/NKE4CF7GZ29PSTSD4VJRX8208F00904FBD796EAAA5DD82E0B52519.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/B/36/NKE4CF7GZ29PSTSD4VJRX8.uasset'
+[2023.09.07-18.00.55:086][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/5/QN/7GDK3BFGM99YNOBM9VILXT
+[2023.09.07-18.00.55:086][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/7GDK3BFGM99YNOBM9VILXT11546D1E42C2F2DF0AC21DB481F3683C.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/5/QN/7GDK3BFGM99YNOBM9VILXT.uasset'
+[2023.09.07-18.00.55:095][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/0/WS/37F17KMT1OIOHAFLO6S1D4
+[2023.09.07-18.00.55:095][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/37F17KMT1OIOHAFLO6S1D4271E62D1402352070AEE898BF97F650D.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/0/WS/37F17KMT1OIOHAFLO6S1D4.uasset'
+[2023.09.07-18.00.55:103][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/3/32/T57893FQC5JGIGRIU3RNST
+[2023.09.07-18.00.55:103][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/T57893FQC5JGIGRIU3RNSTDDFE352A44F9C7D292E679BEA2C5003C.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/3/32/T57893FQC5JGIGRIU3RNST.uasset'
+[2023.09.07-18.00.55:111][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/4/JL/148Y7NNVP4UTMIWSHY4SFB
+[2023.09.07-18.00.55:112][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/148Y7NNVP4UTMIWSHY4SFB9CC9317D4B3E5EFD16486694CEF8C1E0.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/4/JL/148Y7NNVP4UTMIWSHY4SFB.uasset'
+[2023.09.07-18.00.55:120][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/0/4K/GA5CMJ9WCAFQCQQ2B6TNOQ
+[2023.09.07-18.00.55:120][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/GA5CMJ9WCAFQCQQ2B6TNOQB6A98BA4406CFCD9FA066797C1DA51FA.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/0/4K/GA5CMJ9WCAFQCQQ2B6TNOQ.uasset'
+[2023.09.07-18.00.55:128][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/4/RC/EMPQKGJ9BBCEQDBMPR0YD4
+[2023.09.07-18.00.55:128][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/EMPQKGJ9BBCEQDBMPR0YD4F6BB0EBF48C0407E5CC37E8A3FE581C8.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/4/RC/EMPQKGJ9BBCEQDBMPR0YD4.uasset'
+[2023.09.07-18.00.55:136][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/E/Z3/1EBO15VC927A97HPB5T5V6
+[2023.09.07-18.00.55:137][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/1EBO15VC927A97HPB5T5V64C30447645965D82D5BD02A7CB04FAB1.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/E/Z3/1EBO15VC927A97HPB5T5V6.uasset'
+[2023.09.07-18.00.55:145][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/5/NC/DB09WONDGIXP0LO3HFZ51R
+[2023.09.07-18.00.55:145][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/DB09WONDGIXP0LO3HFZ51RC178C91D45C3AF0530E0448F25CA5CBB.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/5/NC/DB09WONDGIXP0LO3HFZ51R.uasset'
+[2023.09.07-18.00.55:153][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/8/BX/5B23YJ4N4OKQPF5SE4QUXF
+[2023.09.07-18.00.55:153][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/5B23YJ4N4OKQPF5SE4QUXFCE29838B45D2819D7C089CB302AA42A4.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/8/BX/5B23YJ4N4OKQPF5SE4QUXF.uasset'
+[2023.09.07-18.00.55:162][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/6/QX/H5DQ6ZXXZ1P2T2RMKHRQMT
+[2023.09.07-18.00.55:162][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/H5DQ6ZXXZ1P2T2RMKHRQMTFFE856704AD30660EFB8FDB5153D8B36.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/6/QX/H5DQ6ZXXZ1P2T2RMKHRQMT.uasset'
+[2023.09.07-18.00.55:170][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/F/2B/2U2MC4Q9F4OQL1HRVLR0QT
+[2023.09.07-18.00.55:170][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/2U2MC4Q9F4OQL1HRVLR0QT29F88EE1400550CBFD76D28F2250DF4A.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/F/2B/2U2MC4Q9F4OQL1HRVLR0QT.uasset'
+[2023.09.07-18.00.55:179][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/9/AO/P9AJO459REPAUT0IFC7XHS
+[2023.09.07-18.00.55:179][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/P9AJO459REPAUT0IFC7XHSB508741E4C9FD2739F2E6DA74CBBE98F.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/9/AO/P9AJO459REPAUT0IFC7XHS.uasset'
+[2023.09.07-18.00.55:187][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/9/WN/YOQGNHEAU1MQ3ELAJ8K0S3
+[2023.09.07-18.00.55:187][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/YOQGNHEAU1MQ3ELAJ8K0S308C7D3D44143D9391EF630AFF13ACBF8.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/9/WN/YOQGNHEAU1MQ3ELAJ8K0S3.uasset'
+[2023.09.07-18.00.55:196][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/9/HA/OVZG9V82BBCKLQAALNVH0S
+[2023.09.07-18.00.55:196][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/OVZG9V82BBCKLQAALNVH0S5F7C15E64353F01E9584F69055C59A1E.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/9/HA/OVZG9V82BBCKLQAALNVH0S.uasset'
+[2023.09.07-18.00.55:204][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/3/R3/S3UTAQ58HMBUHZL8BKOOQH
+[2023.09.07-18.00.55:204][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/S3UTAQ58HMBUHZL8BKOOQHBD728CCB4771252DCCA491951DD56564.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/3/R3/S3UTAQ58HMBUHZL8BKOOQH.uasset'
+[2023.09.07-18.00.55:213][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/C/VN/5ZY1TON9PEW4B1THGKGWBW
+[2023.09.07-18.00.55:213][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/5ZY1TON9PEW4B1THGKGWBWC9B61D5246CE5A67C81A38BADD299ADD.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/C/VN/5ZY1TON9PEW4B1THGKGWBW.uasset'
+[2023.09.07-18.00.55:223][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/C/WQ/2U0LUXRT08I4KCR54836H9
+[2023.09.07-18.00.55:223][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/2U0LUXRT08I4KCR54836H9F77BA3DF4F40280E1CDF8C8445F5811F.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/C/WQ/2U0LUXRT08I4KCR54836H9.uasset'
+[2023.09.07-18.00.55:226][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/A/E2/CZZJ3PE9F4ETGM225OOWLL
+[2023.09.07-18.00.55:226][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/CZZJ3PE9F4ETGM225OOWLLFB971DC641245D46390F9C9BCD2B60AF.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/A/E2/CZZJ3PE9F4ETGM225OOWLL.uasset'
+[2023.09.07-18.00.55:356][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/9/A4/ORGQ01MZ8X0WX14AIIA8H2
+[2023.09.07-18.00.55:356][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/ORGQ01MZ8X0WX14AIIA8H2840E501A462D15D4DB97579438620F2B.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/9/A4/ORGQ01MZ8X0WX14AIIA8H2.uasset'
+[2023.09.07-18.00.55:572][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/0/0D/PKMV550PGPTGWX6BT3UYP5
+[2023.09.07-18.00.55:572][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/PKMV550PGPTGWX6BT3UYP5591048C346C03EEC7882928FDF9D11D0.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/0/0D/PKMV550PGPTGWX6BT3UYP5.uasset'
+[2023.09.07-18.00.56:193][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/6/MS/ANTKPOIF5Q8FY8QCYG0M0K
+[2023.09.07-18.00.56:193][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/ANTKPOIF5Q8FY8QCYG0M0KFA05420A47A5AAD9BB4F83849B2793DE.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/6/MS/ANTKPOIF5Q8FY8QCYG0M0K.uasset'
+[2023.09.07-18.00.56:298][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/2/VB/7V6PKQE7QMJ0KDVKZ1M0QK
+[2023.09.07-18.00.56:298][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/7V6PKQE7QMJ0KDVKZ1M0QKFB1FCE2C4CDA9EB2FA6BBCBC8C031462.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/2/VB/7V6PKQE7QMJ0KDVKZ1M0QK.uasset'
+[2023.09.07-18.00.56:407][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/D/AK/57WJAI4LIR3FL3OTKTWIUG
+[2023.09.07-18.00.56:407][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/57WJAI4LIR3FL3OTKTWIUGE00315CD4B9D85BF513520AD1205B0A2.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/D/AK/57WJAI4LIR3FL3OTKTWIUG.uasset'
+[2023.09.07-18.00.56:512][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/8/20/38GEUTX9K5JHYZNGF3WV2N
+[2023.09.07-18.00.56:512][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/38GEUTX9K5JHYZNGF3WV2N733A464C4399EDF1A7E9539A1F353A43.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/8/20/38GEUTX9K5JHYZNGF3WV2N.uasset'
+[2023.09.07-18.00.57:025][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/C/VT/J8QZV7B8W7OC6X04QWEHFO
+[2023.09.07-18.00.57:025][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/J8QZV7B8W7OC6X04QWEHFO4CCBF48D47037DC06ACD68B79C989D81.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/C/VT/J8QZV7B8W7OC6X04QWEHFO.uasset'
+[2023.09.07-18.00.57:234][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/1/TO/EI2N6HEODBLUS4BQKFQIN3
+[2023.09.07-18.00.57:234][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/EI2N6HEODBLUS4BQKFQIN3E0069E24498A8E892B756DA19D6BA2F6.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/1/TO/EI2N6HEODBLUS4BQKFQIN3.uasset'
+[2023.09.07-18.00.57:341][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/4/UG/MRFVQZ9GYNGOWRYP07F1M8
+[2023.09.07-18.00.57:341][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/MRFVQZ9GYNGOWRYP07F1M8CD747D5C472A03195E7F5799FD8E148F.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/4/UG/MRFVQZ9GYNGOWRYP07F1M8.uasset'
+[2023.09.07-18.00.57:648][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/B/HG/QI3B0EFV8OYK010SMVRY49
+[2023.09.07-18.00.57:648][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/QI3B0EFV8OYK010SMVRY4973190EB142B0ADFB694BFC8E20899D1D.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/B/HG/QI3B0EFV8OYK010SMVRY49.uasset'
+[2023.09.07-18.00.57:750][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/D/96/NRZQ93IQJ1VALCM542QE2O
+[2023.09.07-18.00.57:750][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/NRZQ93IQJ1VALCM542QE2O9FEEAF944E630A09F72CFB940F8A8712.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/D/96/NRZQ93IQJ1VALCM542QE2O.uasset'
+[2023.09.07-18.00.57:950][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/A/3J/Y2T71NQZM86F06H19TNU4C
+[2023.09.07-18.00.57:950][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/Y2T71NQZM86F06H19TNU4C15D0A1E44AAE4C2E34AC4D85BB567AE8.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/A/3J/Y2T71NQZM86F06H19TNU4C.uasset'
+[2023.09.07-18.00.58:577][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/B/LZ/T7Z4N0TW9446WMF2LO0E9X
+[2023.09.07-18.00.58:577][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/T7Z4N0TW9446WMF2LO0E9XE3D3F1CD4D81193C251503B2FAB61F04.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/B/LZ/T7Z4N0TW9446WMF2LO0E9X.uasset'
+[2023.09.07-18.00.58:685][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/B/CS/8RLIM18JYV36ZOFQACBN2J
+[2023.09.07-18.00.58:685][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/8RLIM18JYV36ZOFQACBN2JB776C62D4720D6CB4114E2A3B1509527.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/B/CS/8RLIM18JYV36ZOFQACBN2J.uasset'
+[2023.09.07-18.00.58:905][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/C/TI/U3Y0IMT39RABZ37UYBXU8P
+[2023.09.07-18.00.58:905][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/U3Y0IMT39RABZ37UYBXU8P893C2F09403DA970DD4FD49CEF58A385.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/C/TI/U3Y0IMT39RABZ37UYBXU8P.uasset'
+[2023.09.07-18.00.59:027][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/8/76/3ON97ZFSS0CVLC9ZZF0AVB
+[2023.09.07-18.00.59:027][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/3ON97ZFSS0CVLC9ZZF0AVB94AE6A35416F475499A5F1BAFE9F331D.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/8/76/3ON97ZFSS0CVLC9ZZF0AVB.uasset'
+[2023.09.07-18.00.59:270][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/D/7X/24OM2C8N03HDPE3MKAO1EH
+[2023.09.07-18.00.59:270][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/24OM2C8N03HDPE3MKAO1EH53929E914EDA32CAA61E7CA3EEC8AA1A.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/D/7X/24OM2C8N03HDPE3MKAO1EH.uasset'
+[2023.09.07-18.00.59:378][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/6/3J/55YI2XFJAJ59NJKV9DZRBD
+[2023.09.07-18.00.59:378][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/55YI2XFJAJ59NJKV9DZRBD4163559544CEF5F2536F44A22F601D08.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/6/3J/55YI2XFJAJ59NJKV9DZRBD.uasset'
+[2023.09.07-18.00.59:603][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/8/BX/EAE3UEHFA6KPUGUN2RIIKF
+[2023.09.07-18.00.59:603][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/EAE3UEHFA6KPUGUN2RIIKF4E38998A4C12F768E44BCABFC19D8C51.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/8/BX/EAE3UEHFA6KPUGUN2RIIKF.uasset'
+[2023.09.07-18.00.59:705][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/4/IE/FK3DX7I7KOR1UIZWQS8AIP
+[2023.09.07-18.00.59:705][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/FK3DX7I7KOR1UIZWQS8AIP9DF79BA945C517A98D272AA8B01AA323.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/4/IE/FK3DX7I7KOR1UIZWQS8AIP.uasset'
+[2023.09.07-18.01.00:418][ 66]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/9/NH/2XVUSDV40C20NO297VY1UK
+[2023.09.07-18.01.00:418][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/2XVUSDV40C20NO297VY1UK6AE150AF4153DA383CF9D3B9E5BD45D6.tmp' to 'F:/github/unreal--fluids/MyProject/Content/__ExternalActors__/maps/9/NH/2XVUSDV40C20NO297VY1UK.uasset'
+[2023.09.07-18.01.00:421][ 66]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/maps_HLOD0_Instancing
+/Game/__ExternalActors__/maps/6/UQ/5XEURYZ1AZOVHXEB3JBI8X
+/Game/__ExternalObjects__/maps/6/SQ/PZRYL1FEZGS52WA6VN7SMU
+/Game/__ExternalObjects__/maps/7/B5/P0GGLKWVIPXXHT7P0CT9BX
+/Game/__ExternalObjects__/maps/8/LX/3UYPF8JFLJEEFY1W4L4868
+/Game/__ExternalObjects__/maps/A/TE/06FPVMN8BKNIBVOX366R54
+/Game/__ExternalObjects__/maps/B/EV/FTZZTHXGWFRB6UQUUV700O
+/Game/__ExternalActors__/maps/8/E2/ZFXOSHZAERR3KA52IEQ7W7
+/Game/__ExternalActors__/maps/9/R3/6V5HM46YZOKEUTY1VJ68VI
+/Game/__ExternalActors__/maps/B/DY/0F5OUW3N9KNACS7V0V2VJY
+/Game/__ExternalActors__/maps/4/XT/6MZT06Z7X9DRPAWOXXC3C7
+/Game/__ExternalActors__/maps/8/0F/Z5HYGLN5F4VRFEOWHKTJN2
+/Game/__ExternalActors__/maps/0/IT/8KO2G0K90OU0AONF1E7AN0
+/Game/__ExternalActors__/maps/5/TL/AHRC9WIQX1EV7BFK2D4MA8
+/Game/__ExternalActors__/maps/B/0V/COFZ3QBJIKM0PIJMVL15CD
+/Game/__ExternalActors__/maps/6/WX/AXD1D6CIML21SQT8FLLOY2
+/Game/__ExternalActors__/maps/D/UO/INYGZR6PU8LD9VDOX6UW4T
+/Game/__ExternalActors__/maps/7/7X/CDXXHYJHUSDPSLGXULECEB
+/Game/__ExternalActors__/maps/2/KM/GWS7V2VOKW7WHWYW1KTEUJ
+/Game/__ExternalActors__/maps/9/84/26WLBWTRHV9HQG13U2H7DM
+/Game/__ExternalActors__/maps/0/YJ/ZN0XPG1KLPXX4B13G60EUT
+/Game/__ExternalActors__/maps/7/55/HN3XBJRHPJOZAR9P02FXF2
+/Game/__ExternalActors__/maps/0/0O/V6GHYGIGG05YRXN9BRA4Y5
+/Game/__ExternalActors__/maps/D/EL/C7FY3QY9029NHYK0HH7ZBW
+/Game/__ExternalActors__/maps/4/AB/N92L6B7NXFKSEKX47SA3TO
+/Game/__ExternalActors__/maps/5/LO/68QZK2VJQJK96YF1MNN2ZZ
+/Game/__ExternalActors__/maps/9/ZI/MZXDVC7WIK4Z7K241F9UK8
+/Game/__ExternalActors__/maps/D/SM/O5RHB0C4EO631YV1579GJ2
+/Game/__ExternalActors__/maps/3/N4/2EV7IBCA92OEG91APL5D9X
+/Game/__ExternalActors__/maps/6/O6/1BGSNQS61BKO3A184HE4SL
+/Game/__ExternalActors__/maps/E/9Y/KFC10NYL5VSAQ8UCM5HHIW
+/Game/__ExternalActors__/maps/B/HY/ARBU7UCHU74H659RLDQME5
+/Game/__ExternalActors__/maps/4/2P/SG5AOCDCNTG5DEIPX0AKDH
+/Game/__ExternalActors__/maps/8/MR/R8ZCLB5LBJTDMLN2DON255
+/Game/__ExternalActors__/maps/4/US/8TXAGIP72IQX4GBI5TVQTJ
+/Game/__ExternalActors__/maps/4/3S/3H4FPFCGLYVFLHRBNIQJQK
+/Game/__ExternalActors__/maps/A/41/OUYL34IR13MUFI69LWATHN
+/Game/__ExternalActors__/maps/9/TA/XS7CHXP0JRTQKYMCYUVUUH
+/Game/__ExternalActors__/maps/5/2W/X98O8CAZYUKX2O4BMDB7DT
+/Game/__ExternalActors__/maps/4/47/F0AOE869XJC81YPUOI63H5
+/Game/__ExternalActors__/maps/7/VR/ISYZO325PYCW7YT5H0TVRI
+/Game/__ExternalActors__/maps/A/D6/1CXYF9RF4LD4T9CNRT5IZO
+/Game/__ExternalActors__/maps/5/0D/8I77QFBCYO6LN3NXF9YDTI
+/Game/__ExternalActors__/maps/0/63/6NKEZRJRLQ6YB8CFYUWC3B
+/Game/__ExternalActors__/maps/E/1W/3VO43QIFLSQ7WVWZ18F3GP
+/Game/__ExternalActors__/maps/9/7S/7QHM8WX0P0H9PHXSMJPAN6
+/Game/__ExternalActors__/maps/2/9Y/09B4TXBEW2R1HJYI3R8AQ8
+/Game/__ExternalActors__/maps/A/B2/C27NFXES7HNMBXXL0LSZA6
+/Game/__ExternalActors__/maps/5/KA/RREO5A0M123SG9G0AZMTX1
+/Game/__ExternalActors__/maps/1/KC/394IME3697JJX51LQC91ZI
+/Game/__ExternalActors__/maps/E/BN/2ZI2BYGYJT9C39ULNSMO1T
+/Game/__ExternalActors__/maps/C/B7/XTALKAUNJDK8486DRBUTYM
+/Game/__ExternalActors__/maps/C/0S/9JEN5FW9YCX7TFOEJAKOTS
+/Game/__ExternalActors__/maps/A/88/WT2T1CGDN7ERQIWIH6STBB
+/Game/__ExternalActors__/maps/2/E6/ZII7SKZU390GW18UIAQ3MG
+/Game/__ExternalActors__/maps/D/6X/SGBIXH87D85VV1Z9GHEUHN
+/Game/__ExternalActors__/maps/C/G5/P03IYPJTUKELON2BR1K3UL
+/Game/__ExternalActors__/maps/2/HM/QNJ1AFGUDT8YCPD8MZVVYB
+/Game/__ExternalActors__/maps/2/2E/9AUY0T6UAHP6OJ0UW7PJUO
+/Game/__ExternalActors__/maps/0/D2/XLA9LARPXKTH6MJJ3DKHZR
+/Game/__ExternalActors__/maps/6/P2/V3FKXXSS1KX2AXONEQT2AX
+/Game/__ExternalActors__/maps/0/0R/15HD4GK6COU607I7GP5VGL
+/Game/__ExternalActors__/maps/B/36/NKE4CF7GZ29PSTSD4VJRX8
+/Game/__ExternalActors__/maps/5/QN/7GDK3BFGM99YNOBM9VILXT
+/Game/__ExternalActors__/maps/0/WS/37F17KMT1OIOHAFLO6S1D4
+/Game/__ExternalActors__/maps/3/32/T57893FQC5JGIGRIU3RNST
+/Game/__ExternalActors__/maps/4/JL/148Y7NNVP4UTMIWSHY4SFB
+/Game/__ExternalActors__/maps/0/4K/GA5CMJ9WCAFQCQQ2B6TNOQ
+/Game/__ExternalActors__/maps/4/RC/EMPQKGJ9BBCEQDBMPR0YD4
+/Game/__ExternalActors__/maps/E/Z3/1EBO15VC927A97HPB5T5V6
+/Game/__ExternalActors__/maps/5/NC/DB09WONDGIXP0LO3HFZ51R
+/Game/__ExternalActors__/maps/8/BX/5B23YJ4N4OKQPF5SE4QUXF
+/Game/__ExternalActors__/maps/6/QX/H5DQ6ZXXZ1P2T2RMKHRQMT
+/Game/__ExternalActors__/maps/F/2B/2U2MC4Q9F4OQL1HRVLR0QT
+/Game/__ExternalActors__/maps/9/AO/P9AJO459REPAUT0IFC7XHS
+/Game/__ExternalActors__/maps/9/WN/YOQGNHEAU1MQ3ELAJ8K0S3
+/Game/__ExternalActors__/maps/9/HA/OVZG9V82BBCKLQAALNVH0S
+/Game/__ExternalActors__/maps/3/R3/S3UTAQ58HMBUHZL8BKOOQH
+/Game/__ExternalActors__/maps/C/VN/5ZY1TON9PEW4B1THGKGWBW
+/Game/__ExternalActors__/maps/C/WQ/2U0LUXRT08I4KCR54836H9
+/Game/__ExternalActors__/maps/A/E2/CZZJ3PE9F4ETGM225OOWLL
+/Game/__ExternalActors__/maps/9/A4/ORGQ01MZ8X0WX14AIIA8H2
+/Game/__ExternalActors__/maps/0/0D/PKMV550PGPTGWX6BT3UYP5
+/Game/__ExternalActors__/maps/6/MS/ANTKPOIF5Q8FY8QCYG0M0K
+/Game/__ExternalActors__/maps/2/VB/7V6PKQE7QMJ0KDVKZ1M0QK
+/Game/__ExternalActors__/maps/D/AK/57WJAI4LIR3FL3OTKTWIUG
+/Game/__ExternalActors__/maps/8/20/38GEUTX9K5JHYZNGF3WV2N
+/Game/__ExternalActors__/maps/C/VT/J8QZV7B8W7OC6X04QWEHFO
+/Game/__ExternalActors__/maps/1/TO/EI2N6HEODBLUS4BQKFQIN3
+/Game/__ExternalActors__/maps/4/UG/MRFVQZ9GYNGOWRYP07F1M8
+/Game/__ExternalActors__/maps/B/HG/QI3B0EFV8OYK010SMVRY49
+/Game/__ExternalActors__/maps/D/96/NRZQ93IQJ1VALCM542QE2O
+/Game/__ExternalActors__/maps/A/3J/Y2T71NQZM86F06H19TNU4C
+/Game/__ExternalActors__/maps/B/LZ/T7Z4N0TW9446WMF2LO0E9X
+/Game/__ExternalActors__/maps/B/CS/8RLIM18JYV36ZOFQACBN2J
+/Game/__ExternalActors__/maps/C/TI/U3Y0IMT39RABZ37UYBXU8P
+/Game/__ExternalActors__/maps/8/76/3ON97ZFSS0CVLC9ZZF0AVB
+/Game/__ExternalActors__/maps/D/7X/24OM2C8N03HDPE3MKAO1EH
+/Game/__ExternalActors__/maps/6/3J/55YI2XFJAJ59NJKV9DZRBD
+/Game/__ExternalActors__/maps/8/BX/EAE3UEHFA6KPUGUN2RIIKF
+/Game/__ExternalActors__/maps/4/IE/FK3DX7I7KOR1UIZWQS8AIP
+/Game/__ExternalActors__/maps/9/NH/2XVUSDV40C20NO297VY1UK
+[2023.09.07-18.01.00:421][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maps" FILE="F:/github/unreal--fluids/MyProject/Content/maps.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.07-18.01.00:428][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.09.07-18.01.00:434][ 66]LogSavePackage: Moving output files for package: /Game/maps
+[2023.09.07-18.01.00:434][ 66]LogSavePackage: Moving 'F:/github/unreal--fluids/MyProject/Saved/maps2182D64B4C2B2CCB347789B60612AFD6.tmp' to 'F:/github/unreal--fluids/MyProject/Content/maps.umap'
+[2023.09.07-18.01.00:468][ 66]LogFileHelpers: Saving map 'maps' took 5.968
+[2023.09.07-18.01.00:476][ 66]LogStall: Shutdown...
+[2023.09.07-18.01.00:483][ 66]LogStall: Shutdown complete.
+[2023.09.07-18.01.00:508][ 66]LogSlate: Window 'MyProject - Unreal Editor' being destroyed
+[2023.09.07-18.01.00:619][ 66]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating ActorFolder /Game/maps.maps:PersistentLevel.ActorFolder_UID_5D23A82E-411A5CFD-F61C6285-B0703174
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating ActorFolder /Game/maps.maps:PersistentLevel.ActorFolder_UID_F0B34F1C-498F52BA-314B94B2-A472577C
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating ActorFolder /Game/maps.maps:PersistentLevel.ActorFolder_UID_069B7288-4681824D-D41E3894-8B3951F3
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating ActorFolder /Game/maps.maps:PersistentLevel.ActorFolder_UID_26DBD2B7-434D115B-68D5CB88-82E789AF
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating ActorFolder /Game/maps.maps:PersistentLevel.ActorFolder_UID_B7E9BD5B-45A65265-4791988D-EF54CCEB
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating WorldDataLayers /Game/maps.maps:PersistentLevel.WorldDataLayers
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating World /Game/maps.maps
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating WorldPartitionMiniMap /Game/maps.maps:PersistentLevel.WorldPartitionMiniMap_UAID_3497F631D5890DD300_1296925927
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating DirectionalLight /Game/maps.maps:PersistentLevel.DirectionalLight_UAID_A85E45CFE40401D200_1470382761
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating StaticMeshActor /Game/maps.maps:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating SkyAtmosphere /Game/maps.maps:PersistentLevel.SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating SkyLight /Game/maps.maps:PersistentLevel.SkyLight_UAID_A85E45CFE40401D200_1470380759
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating ExponentialHeightFog /Game/maps.maps:PersistentLevel.ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating VolumetricCloud /Game/maps.maps:PersistentLevel.VolumetricCloud_UAID_A85E45CFE40401D200_1470381760
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating Landscape /Game/maps.maps:PersistentLevel.Landscape_UAID_A85E45CFE404FBD100_1221515703
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_3_0
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_3_0
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_3_0
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_4_0
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_5_0
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_4_0
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_1_0
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_6_0
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_7_0
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_6_0
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_5_0
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_4_0
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0
+[2023.09.07-18.01.00:619][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_1_0
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_0_0
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_2_0
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_3_0
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_3_0
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_3_0
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_3_0
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_3_0
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/maps.maps:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating BP_FluxSimulation_C /Game/maps.maps:PersistentLevel.BP_FluxSimulation_C_UAID_74563C3357B8F4A601_1904314399
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating BP_FluxModifierSourceActor_C /Game/maps.maps:PersistentLevel.BP_FluxModifierSourceActor_C_UAID_74563C3357B8F4A601_2059369551
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/maps.maps:PersistentLevel.HLOD0_Instancing_00000000db5f9a5d
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating HLODLayer /Game/maps_HLOD0_Instancing.maps_HLOD0_Instancing
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/maps.maps:PersistentLevel.HLOD0_Instancing_000000004e144344
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/maps.maps:PersistentLevel.HLOD0_Instancing_00000000923d253d
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/maps.maps:PersistentLevel.HLOD0_Instancing_0000000083c582a7
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/maps.maps:PersistentLevel.HLOD0_Instancing_00000000dfad0108
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/maps.maps:PersistentLevel.HLOD0_Instancing_00000000dea15624
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/maps.maps:PersistentLevel.HLOD0_Instancing_00000000adcdef81
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/maps.maps:PersistentLevel.HLOD0_Instancing_00000000c6baa641
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/maps.maps:PersistentLevel.HLOD0_Instancing_00000000ffcbbfa1
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/maps.maps:PersistentLevel.HLOD0_Instancing_000000006f064fc3
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/maps.maps:PersistentLevel.HLOD0_Instancing_000000002e9978b4
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/maps.maps:PersistentLevel.HLOD0_Instancing_000000001344ec12
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/maps.maps:PersistentLevel.HLOD0_Instancing_00000000d580238e
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/maps.maps:PersistentLevel.HLOD0_Instancing_00000000d3a4e6c0
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/maps.maps:PersistentLevel.HLOD0_Instancing_00000000d560b8ee
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/maps.maps:PersistentLevel.HLOD0_Instancing_00000000596e8a41
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/maps.maps:PersistentLevel.HLOD0_Instancing_00000000837d3c27
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/maps.maps:PersistentLevel.HLOD0_Instancing_00000000b0cde8dc
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/maps.maps:PersistentLevel.HLOD0_Instancing_0000000053252892
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/maps.maps:PersistentLevel.HLOD0_Instancing_00000000d190b65e
+[2023.09.07-18.01.00:620][ 66]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/maps.maps:PersistentLevel.HLOD0_Instancing_0000000010d5f002
+[2023.09.07-18.01.00:625][ 67]Cmd: QUIT_EDITOR
+[2023.09.07-18.01.00:625][ 67]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.09.07-18.01.00:634][ 67]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.09.07-18.01.00:634][ 67]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.09.07-18.01.00:634][ 67]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.09.07-18.01.01:257][ 67]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.09.07-18.01.01:258][ 67]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.09.07-18.01.01:258][ 67]LogAudio: Display: Audio Device unregistered from world 'maps'.
+[2023.09.07-18.01.01:258][ 67]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.09.07-18.01.01:259][ 67]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.09.07-18.01.01:267][ 67]LogAudio: Display: Audio Device Manager Shutdown
+[2023.09.07-18.01.01:271][ 67]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.09.07-18.01.01:271][ 67]LogExit: Preparing to exit.
+[2023.09.07-18.01.01:280][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.09.07-18.01.02:381][ 67]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.07-18.01.02:381][ 67]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.07-18.01.02:381][ 67]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.07-18.01.02:381][ 67]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.07-18.01.02:381][ 67]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.07-18.01.02:381][ 67]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.07-18.01.02:381][ 67]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.07-18.01.02:381][ 67]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.09.07-18.01.02:381][ 67]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.07-18.01.02:381][ 67]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.07-18.01.02:381][ 67]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.07-18.01.02:381][ 67]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.07-18.01.02:381][ 67]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.07-18.01.02:381][ 67]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.07-18.01.02:381][ 67]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.07-18.01.02:381][ 67]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.09.07-18.01.02:382][ 67]LogWorld: UWorld::CleanupWorld for maps, bSessionEnded=true, bCleanupResources=true
+[2023.09.07-18.01.02:411][ 67]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.09.07-18.01.02:420][ 67]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.09.07-18.01.02:420][ 67]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.09.07-18.01.02:423][ 67]LogExit: Editor shut down
+[2023.09.07-18.01.02:426][ 67]LogExit: Transaction tracking system shut down
+[2023.09.07-18.01.02:564][ 67]LogExit: Object subsystem successfully closed.
+[2023.09.07-18.01.02:570][ 67]LogShaderCompilers: Display: ================================================
+[2023.09.07-18.01.02:570][ 67]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.07-18.01.02:570][ 67]LogShaderCompilers: Display: Total job queries 1055, among them cache hits 25 (2.37%)
+[2023.09.07-18.01.02:570][ 67]LogShaderCompilers: Display: Tracking 1024 distinct input hashes that result in 656 distinct outputs (64.06%)
+[2023.09.07-18.01.02:570][ 67]LogShaderCompilers: Display: RAM used: 1.86 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.11%
+[2023.09.07-18.01.02:570][ 67]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.07-18.01.02:570][ 67]LogShaderCompilers: Display: Shaders Compiled: 1009
+[2023.09.07-18.01.02:570][ 67]LogShaderCompilers: Display: Jobs assigned 1024, completed 1024 (100.00%)
+[2023.09.07-18.01.02:570][ 67]LogShaderCompilers: Display: Average time worker was idle: 3.43 s
+[2023.09.07-18.01.02:570][ 67]LogShaderCompilers: Display: Time job spent in pending queue: average 30.93 s, longest 76.38 s
+[2023.09.07-18.01.02:570][ 67]LogShaderCompilers: Display: Job execution time: average 5.53 s, max 15.12 s
+[2023.09.07-18.01.02:570][ 67]LogShaderCompilers: Display: Job life time (pending + execution): average 36.46 s, max 76.90
+[2023.09.07-18.01.02:570][ 67]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 82.53 s
+[2023.09.07-18.01.02:570][ 67]LogShaderCompilers: Display: Jobs were issued in 175 batches (only local compilation was used), average 5.85 jobs/batch
+[2023.09.07-18.01.02:570][ 67]LogShaderCompilers: Display: Average processing rate: 12.41 jobs/sec
+[2023.09.07-18.01.02:570][ 67]LogShaderCompilers: Display: Effective parallelization: 7.11 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.09.07-18.01.02:570][ 67]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.09.07-18.01.02:570][ 67]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyLQ (compiled    4 times, average 2.06 sec, max 3.56 sec, min 0.57 sec)
+[2023.09.07-18.01.02:570][ 67]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    4 times, average 2.06 sec, max 3.51 sec, min 0.68 sec)
+[2023.09.07-18.01.02:570][ 67]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    4 times, average 2.01 sec, max 3.44 sec, min 0.60 sec)
+[2023.09.07-18.01.02:570][ 67]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight (compiled    4 times, average 1.98 sec, max 3.55 sec, min 0.61 sec)
+[2023.09.07-18.01.02:570][ 67]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    4 times, average 1.91 sec, max 3.25 sec, min 0.61 sec)
+[2023.09.07-18.01.02:570][ 67]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.09.07-18.01.02:570][ 67]LogShaderCompilers: Display:                                             FDebugViewModePS - 5.68% of total time (compiled   46 times, average 0.72 sec, max 2.09 sec, min 0.39 sec)
+[2023.09.07-18.01.02:570][ 67]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.42% of total time (compiled   46 times, average 0.69 sec, max 1.10 sec, min 0.38 sec)
+[2023.09.07-18.01.02:570][ 67]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 5.34% of total time (compiled   46 times, average 0.68 sec, max 3.28 sec, min 0.37 sec)
+[2023.09.07-18.01.02:570][ 67]LogShaderCompilers: Display:                                             FDebugViewModeVS - 4.92% of total time (compiled   46 times, average 0.63 sec, max 0.77 sec, min 0.33 sec)
+[2023.09.07-18.01.02:570][ 67]LogShaderCompilers: Display:                                                 FLumenCardVS - 4.87% of total time (compiled   46 times, average 0.62 sec, max 0.97 sec, min 0.31 sec)
+[2023.09.07-18.01.02:570][ 67]LogShaderCompilers: Display: ================================================
+[2023.09.07-18.01.02:659][ 67]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.09.07-18.01.02:682][ 67]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (888)
+[2023.09.07-18.01.02:682][ 67]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (886)
+[2023.09.07-18.01.02:682][ 67]LogModuleManager: Shutting down and abandoning module Voice (884)
+[2023.09.07-18.01.02:682][ 67]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (882)
+[2023.09.07-18.01.02:682][ 67]LogModuleManager: Shutting down and abandoning module AddContentDialog (880)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module WidgetCarousel (879)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module SubobjectEditor (874)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module SceneOutliner (872)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module StatusBar (870)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (868)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module DataLayerEditor (866)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module StatsViewer (864)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (862)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module AutomationWorker (860)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (858)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module GooglePADEditor (856)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (854)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (852)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (850)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (848)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (846)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (844)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (842)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (840)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (838)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (836)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module WebMMedia (834)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (832)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (830)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module SequenceRecorder (829)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (826)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (824)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (822)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (820)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (818)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (816)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (814)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module PlanarCut (812)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module CharacterAI (810)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module TextureAlignMode (808)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module BspMode (806)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module GeometryMode (804)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (802)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module IKRigEditor (800)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module ControlRigEditor (798)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module AnimationEditor (797)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module SmartSnapping (794)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module ControlRigSplineEditor (792)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module SessionServices (790)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module MeshPaint (788)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (786)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module PlacementMode (785)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module FoliageEdit (782)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module LandscapeEditor (780)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (778)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module ActorPickerMode (776)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module ViewportSnapping (774)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module EditorWidgets (772)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module ViewportInteraction (770)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module ClothPainter (768)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (767)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module LogVisualizer (764)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module IntroTutorials (762)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (760)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (758)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (757)
+[2023.09.07-18.01.02:683][ 67]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (755)
+[2023.09.07-18.01.03:286][ 67]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (752)
+[2023.09.07-18.01.03:286][ 67]LogModuleManager: Shutting down and abandoning module HoloLensPlatformEditor (750)
+[2023.09.07-18.01.03:286][ 67]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (748)
+[2023.09.07-18.01.03:286][ 67]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (746)
+[2023.09.07-18.01.03:286][ 67]LogModuleManager: Shutting down and abandoning module CSVtoSVG (744)
+[2023.09.07-18.01.03:286][ 67]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (742)
+[2023.09.07-18.01.03:286][ 67]LogModuleManager: Shutting down and abandoning module EditorConfig (740)
+[2023.09.07-18.01.03:286][ 67]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (738)
+[2023.09.07-18.01.03:286][ 67]LogModuleManager: Shutting down and abandoning module EditorFramework (736)
+[2023.09.07-18.01.03:286][ 67]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (734)
+[2023.09.07-18.01.03:286][ 67]LogModuleManager: Shutting down and abandoning module TraceInsights (732)
+[2023.09.07-18.01.03:286][ 67]MemoryProfiler: Shutdown
+[2023.09.07-18.01.03:286][ 67]NetworkingProfiler: Shutdown
+[2023.09.07-18.01.03:286][ 67]LoadingProfiler: Shutdown
+[2023.09.07-18.01.03:286][ 67]TimingProfiler: Shutdown
+[2023.09.07-18.01.03:286][ 67]LogModuleManager: Shutting down and abandoning module TraceServices (731)
+[2023.09.07-18.01.03:286][ 67]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (728)
+[2023.09.07-18.01.03:286][ 67]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (727)
+[2023.09.07-18.01.03:286][ 67]LogModuleManager: Shutting down and abandoning module InputBindingEditor (724)
+[2023.09.07-18.01.03:286][ 67]LogModuleManager: Shutting down and abandoning module MergeActors (722)
+[2023.09.07-18.01.03:286][ 67]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (720)
+[2023.09.07-18.01.03:286][ 67]LogModuleManager: Shutting down and abandoning module LocalizationService (719)
+[2023.09.07-18.01.03:286][ 67]LogModuleManager: Shutting down and abandoning module HardwareTargeting (716)
+[2023.09.07-18.01.03:286][ 67]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (714)
+[2023.09.07-18.01.03:286][ 67]LogModuleManager: Shutting down and abandoning module UndoHistory (712)
+[2023.09.07-18.01.03:286][ 67]LogModuleManager: Shutting down and abandoning module XmlParser (710)
+[2023.09.07-18.01.03:286][ 67]LogModuleManager: Shutting down and abandoning module Blutility (708)
+[2023.09.07-18.01.03:286][ 67]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (706)
+[2023.09.07-18.01.03:286][ 67]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (705)
+[2023.09.07-18.01.03:286][ 67]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (702)
+[2023.09.07-18.01.03:286][ 67]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (701)
+[2023.09.07-18.01.03:286][ 67]LogModuleManager: Shutting down and abandoning module SettingsEditor (698)
+[2023.09.07-18.01.03:286][ 67]LogModuleManager: Shutting down and abandoning module ProjectLauncher (696)
+[2023.09.07-18.01.03:286][ 67]LogModuleManager: Shutting down and abandoning module SessionFrontend (694)
+[2023.09.07-18.01.03:286][ 67]LogModuleManager: Shutting down and abandoning module ProfilerClient (692)
+[2023.09.07-18.01.03:286][ 67]LogModuleManager: Shutting down and abandoning module DeviceManager (690)
+[2023.09.07-18.01.03:286][ 67]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (689)
+[2023.09.07-18.01.03:297][ 67]LogModuleManager: Shutting down and abandoning module AutomationController (686)
+[2023.09.07-18.01.03:297][ 67]LogModuleManager: Shutting down and abandoning module AutomationWindow (684)
+[2023.09.07-18.01.03:297][ 67]LogModuleManager: Shutting down and abandoning module Layers (682)
+[2023.09.07-18.01.03:297][ 67]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (680)
+[2023.09.07-18.01.03:297][ 67]LogModuleManager: Shutting down and abandoning module DetailCustomizations (678)
+[2023.09.07-18.01.03:297][ 67]LogModuleManager: Shutting down and abandoning module PackagesDialog (676)
+[2023.09.07-18.01.03:297][ 67]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (674)
+[2023.09.07-18.01.03:297][ 67]LogModuleManager: Shutting down and abandoning module Persona (672)
+[2023.09.07-18.01.03:297][ 67]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (671)
+[2023.09.07-18.01.03:297][ 67]LogModuleManager: Shutting down and abandoning module AnimGraph (669)
+[2023.09.07-18.01.03:297][ 67]LogModuleManager: Shutting down and abandoning module Kismet (666)
+[2023.09.07-18.01.03:299][ 67]LogModuleManager: Shutting down and abandoning module KismetWidgets (665)
+[2023.09.07-18.01.03:299][ 67]LogModuleManager: Shutting down and abandoning module GraphEditor (662)
+[2023.09.07-18.01.03:299][ 67]LogModuleManager: Shutting down and abandoning module StructViewer (660)
+[2023.09.07-18.01.03:299][ 67]LogModuleManager: Shutting down and abandoning module ClassViewer (658)
+[2023.09.07-18.01.03:299][ 67]LogModuleManager: Shutting down and abandoning module NaniteTools (656)
+[2023.09.07-18.01.03:299][ 67]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (654)
+[2023.09.07-18.01.03:299][ 67]LogModuleManager: Shutting down and abandoning module SourceControlWindows (652)
+[2023.09.07-18.01.03:299][ 67]LogModuleManager: Shutting down and abandoning module OutputLog (650)
+[2023.09.07-18.01.03:300][ 67]LogModuleManager: Shutting down and abandoning module Documentation (648)
+[2023.09.07-18.01.03:300][ 67]LogModuleManager: Shutting down and abandoning module LiveCoding (646)
+[2023.09.07-18.01.03:303][ 67]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (644)
+[2023.09.07-18.01.03:303][ 67]LogModuleManager: Shutting down and abandoning module MovieScene (642)
+[2023.09.07-18.01.03:303][ 67]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (640)
+[2023.09.07-18.01.03:303][ 67]LogModuleManager: Shutting down and abandoning module LauncherPlatform (638)
+[2023.09.07-18.01.03:303][ 67]LogModuleManager: Shutting down and abandoning module AnalyticsET (636)
+[2023.09.07-18.01.03:303][ 67]LogModuleManager: Shutting down and abandoning module PortalServices (634)
+[2023.09.07-18.01.03:303][ 67]LogModuleManager: Shutting down and abandoning module PortalRpc (632)
+[2023.09.07-18.01.03:303][ 67]LogModuleManager: Shutting down and abandoning module MessagingRpc (630)
+[2023.09.07-18.01.03:303][ 67]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (628)
+[2023.09.07-18.01.03:303][ 67]LogModuleManager: Shutting down and abandoning module AudioMixer (627)
+[2023.09.07-18.01.03:303][ 67]LogModuleManager: Shutting down and abandoning module AudioMixerCore (626)
+[2023.09.07-18.01.03:303][ 67]LogModuleManager: Shutting down and abandoning module AIModule (622)
+[2023.09.07-18.01.03:303][ 67]LogModuleManager: Shutting down and abandoning module GameplayDebugger (621)
+[2023.09.07-18.01.03:303][ 67]LogModuleManager: Shutting down and abandoning module AITestSuite (619)
+[2023.09.07-18.01.03:303][ 67]LogModuleManager: Shutting down and abandoning module NavigationSystem (617)
+[2023.09.07-18.01.03:304][ 67]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (614)
+[2023.09.07-18.01.03:304][ 67]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (612)
+[2023.09.07-18.01.03:304][ 67]LogModuleManager: Shutting down and abandoning module TypedElementFramework (610)
+[2023.09.07-18.01.03:304][ 67]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (608)
+[2023.09.07-18.01.03:304][ 67]LogModuleManager: Shutting down and abandoning module ProfilerService (606)
+[2023.09.07-18.01.03:314][ 67]LogModuleManager: Shutting down and abandoning module TaskGraph (604)
+[2023.09.07-18.01.03:314][ 67]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (602)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module MegascansPlugin (600)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module Bridge (598)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (596)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (594)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module InterchangePipelines (592)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module InterchangeExport (590)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module InterchangeMessages (588)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module InterchangeImport (586)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module InterchangeNodes (584)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module InterchangeResultsBrowser (582)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (580)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module InterchangeEditor (578)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (576)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (574)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (572)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module CollectionManager (571)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module SynthesisEditor (568)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module Synthesis (566)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module ResonanceAudio (564)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (562)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (560)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (558)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (556)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module ModelingOperators (554)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (552)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module ModelingComponents (550)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (548)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module MeshModelingTools (546)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module HairStrandsEditor (544)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module GooglePAD (542)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module DynamicMesh (540)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (538)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (536)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (534)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (532)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (530)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module CableComponent (528)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module AssetTags (526)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module AudioCapture (524)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (523)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (520)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (518)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module AppleImageUtils (516)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module AndroidPermission (514)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (512)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (510)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module TemplateSequence (506)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (504)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module SequencerScripting (502)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module MediaCompositing (500)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module ImgMedia (498)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (496)
+[2023.09.07-18.01.03:315][ 67]LogOpenImageDenoise: OIDN shutting down
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module MeshLODToolset (494)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (492)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (490)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (488)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (486)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (484)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (483)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (480)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (478)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (476)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (474)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (472)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module AlembicImporter (470)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module AlembicLibrary (469)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module GeometryCache (468)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (467)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (462)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module ChaosNiagara (460)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module FractureEditor (458)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (456)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (454)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module AutomationUtils (452)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module BackChannel (450)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (448)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module UnrealInsightsInterface (446)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (444)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module UObjectPlugin (442)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (440)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (438)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module PluginUtils (436)
+[2023.09.07-18.01.03:315][ 67]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (434)
+[2023.09.07-18.01.03:316][ 67]LogModuleManager: Shutting down and abandoning module GitSourceControl (432)
+[2023.09.07-18.01.03:316][ 67]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (430)
+[2023.09.07-18.01.03:316][ 67]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (428)
+[2023.09.07-18.01.03:316][ 67]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (426)
+[2023.09.07-18.01.03:316][ 67]LogModuleManager: Shutting down and abandoning module StylusInput (424)
+[2023.09.07-18.01.03:316][ 67]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (422)
+[2023.09.07-18.01.03:316][ 67]LogModuleManager: Shutting down and abandoning module PluginBrowser (420)
+[2023.09.07-18.01.03:316][ 67]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (418)
+[2023.09.07-18.01.03:316][ 67]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (416)
+[2023.09.07-18.01.03:316][ 67]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (414)
+[2023.09.07-18.01.03:316][ 67]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (412)
+[2023.09.07-18.01.03:316][ 67]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (410)
+[2023.09.07-18.01.03:316][ 67]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (408)
+[2023.09.07-18.01.03:316][ 67]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (406)
+[2023.09.07-18.01.03:316][ 67]LogModuleManager: Shutting down and abandoning module EditorDebugTools (404)
+[2023.09.07-18.01.03:316][ 67]LogModuleManager: Shutting down and abandoning module CurveEditorTools (402)
+[2023.09.07-18.01.03:316][ 67]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (400)
+[2023.09.07-18.01.03:316][ 67]LogModuleManager: Shutting down and abandoning module CryptoKeys (398)
+[2023.09.07-18.01.03:316][ 67]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (396)
+[2023.09.07-18.01.03:316][ 67]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (394)
+[2023.09.07-18.01.03:316][ 67]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (392)
+[2023.09.07-18.01.03:316][ 67]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (390)
+[2023.09.07-18.01.03:316][ 67]LogModuleManager: Shutting down and abandoning module Paper2DEditor (388)
+[2023.09.07-18.01.03:316][ 67]LogModuleManager: Shutting down and abandoning module ControlRigSpline (386)
+[2023.09.07-18.01.03:316][ 67]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (384)
+[2023.09.07-18.01.03:316][ 67]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (382)
+[2023.09.07-18.01.03:316][ 67]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (380)
+[2023.09.07-18.01.03:316][ 67]LogModuleManager: Shutting down and abandoning module SoundFields (378)
+[2023.09.07-18.01.03:316][ 67]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (376)
+[2023.09.07-18.01.03:316][ 67]LogModuleManager: Shutting down and abandoning module SignificanceManager (374)
+[2023.09.07-18.01.03:316][ 67]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (372)
+[2023.09.07-18.01.03:316][ 67]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (370)
+[2023.09.07-18.01.03:316][ 67]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (368)
+[2023.09.07-18.01.03:316][ 67]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (367)
+[2023.09.07-18.01.03:316][ 67]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (364)
+[2023.09.07-18.01.03:316][ 67]LogModuleManager: Shutting down and abandoning module UdpMessaging (362)
+[2023.09.07-18.01.03:417][ 67]LogModuleManager: Shutting down and abandoning module TcpMessaging (360)
+[2023.09.07-18.01.03:518][ 67]LogModuleManager: Shutting down and abandoning module ActorSequence (358)
+[2023.09.07-18.01.03:518][ 67]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (356)
+[2023.09.07-18.01.03:518][ 67]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (354)
+[2023.09.07-18.01.03:518][ 67]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (352)
+[2023.09.07-18.01.03:518][ 67]LogModuleManager: Shutting down and abandoning module Niagara (350)
+[2023.09.07-18.01.03:518][ 67]LogModuleManager: Shutting down and abandoning module SignalProcessing (349)
+[2023.09.07-18.01.03:518][ 67]LogModuleManager: Shutting down and abandoning module NiagaraEditor (347)
+[2023.09.07-18.01.03:518][ 67]LogModuleManager: Shutting down and abandoning module NiagaraCore (344)
+[2023.09.07-18.01.03:518][ 67]LogModuleManager: Shutting down and abandoning module PBIK (342)
+[2023.09.07-18.01.03:518][ 67]LogModuleManager: Shutting down and abandoning module FullBodyIK (340)
+[2023.09.07-18.01.03:518][ 67]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (338)
+[2023.09.07-18.01.03:518][ 67]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (336)
+[2023.09.07-18.01.03:518][ 67]LogModuleManager: Shutting down and abandoning module AnimationSharing (334)
+[2023.09.07-18.01.03:518][ 67]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (332)
+[2023.09.07-18.01.03:518][ 67]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (330)
+[2023.09.07-18.01.03:518][ 67]LogModuleManager: Shutting down and abandoning module FacialAnimation (328)
+[2023.09.07-18.01.03:518][ 67]LogModuleManager: Shutting down and abandoning module DataValidation (326)
+[2023.09.07-18.01.03:518][ 67]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (324)
+[2023.09.07-18.01.03:518][ 67]LogModuleManager: Shutting down and abandoning module LevelEditor (323)
+[2023.09.07-18.01.03:519][ 67]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (322)
+[2023.09.07-18.01.03:519][ 67]LogModuleManager: Shutting down and abandoning module LevelAssetEditor (320)
+[2023.09.07-18.01.03:519][ 67]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (318)
+[2023.09.07-18.01.03:519][ 67]LogModuleManager: Shutting down and abandoning module MainFrame (316)
+[2023.09.07-18.01.03:519][ 67]LogModuleManager: Shutting down and abandoning module HotReload (315)
+[2023.09.07-18.01.03:520][ 67]LogModuleManager: Shutting down and abandoning module ContentBrowser (311)
+[2023.09.07-18.01.03:520][ 67]LogModuleManager: Shutting down and abandoning module ToolMenus (310)
+[2023.09.07-18.01.03:520][ 67]LogModuleManager: Shutting down and abandoning module ContentBrowserData (308)
+[2023.09.07-18.01.03:520][ 67]LogModuleManager: Shutting down and abandoning module TreeMap (305)
+[2023.09.07-18.01.03:520][ 67]LogModuleManager: Shutting down and abandoning module GameplayCameras (302)
+[2023.09.07-18.01.03:520][ 67]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (300)
+[2023.09.07-18.01.03:520][ 67]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (298)
+[2023.09.07-18.01.03:520][ 67]LogModuleManager: Shutting down and abandoning module IKRig (296)
+[2023.09.07-18.01.03:520][ 67]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (294)
+[2023.09.07-18.01.03:520][ 67]LogModuleManager: Shutting down and abandoning module ControlRig (292)
+[2023.09.07-18.01.03:520][ 67]LogModuleManager: Shutting down and abandoning module LevelSequence (291)
+[2023.09.07-18.01.03:520][ 67]LogModuleManager: Shutting down and abandoning module Paper2D (288)
+[2023.09.07-18.01.03:520][ 67]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (286)
+[2023.09.07-18.01.03:520][ 67]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (284)
+[2023.09.07-18.01.03:520][ 67]LogModuleManager: Shutting down and abandoning module AndroidFileServer (282)
+[2023.09.07-18.01.03:520][ 67]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (280)
+[2023.09.07-18.01.03:520][ 67]LogModuleManager: Shutting down and abandoning module PacketHandler (278)
+[2023.09.07-18.01.03:520][ 67]LogModuleManager: Shutting down and abandoning module AnimationDataController (276)
+[2023.09.07-18.01.03:520][ 67]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (274)
+[2023.09.07-18.01.03:520][ 67]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (272)
+[2023.09.07-18.01.03:520][ 67]LogModuleManager: Shutting down and abandoning module MediaAssets (270)
+[2023.09.07-18.01.03:520][ 67]LogModuleManager: Shutting down and abandoning module Overlay (268)
+[2023.09.07-18.01.03:520][ 67]LogModuleManager: Shutting down and abandoning module OverlayEditor (267)
+[2023.09.07-18.01.03:520][ 67]LogModuleManager: Shutting down and abandoning module VREditor (264)
+[2023.09.07-18.01.03:520][ 67]LogModuleManager: Shutting down and abandoning module StringTableEditor (262)
+[2023.09.07-18.01.03:520][ 67]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (260)
+[2023.09.07-18.01.03:520][ 67]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (258)
+[2023.09.07-18.01.03:520][ 67]LogModuleManager: Shutting down and abandoning module FunctionalTesting (256)
+[2023.09.07-18.01.03:520][ 67]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (254)
+[2023.09.07-18.01.03:520][ 67]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (253)
+[2023.09.07-18.01.03:520][ 67]LogModuleManager: Shutting down and abandoning module UMG (250)
+[2023.09.07-18.01.03:520][ 67]LogModuleManager: Shutting down and abandoning module UMGEditor (249)
+[2023.09.07-18.01.03:520][ 67]LogModuleManager: Shutting down and abandoning module SlateReflector (244)
+[2023.09.07-18.01.03:520][ 67]LogModuleManager: Shutting down and abandoning module Slate (242)
+[2023.09.07-18.01.03:520][ 67]LogModuleManager: Shutting down and abandoning module SlateCore (240)
+[2023.09.07-18.01.03:521][ 67]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (238)
+[2023.09.07-18.01.03:521][ 67]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (236)
+[2023.09.07-18.01.03:521][ 67]LogModuleManager: Shutting down and abandoning module UnrealEd (234)
+[2023.09.07-18.01.03:521][ 67]LogModuleManager: Shutting down and abandoning module MRMesh (232)
+[2023.09.07-18.01.03:521][ 67]LogModuleManager: Shutting down and abandoning module Messaging (230)
+[2023.09.07-18.01.03:521][ 67]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (228)
+[2023.09.07-18.01.03:521][ 67]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (226)
+[2023.09.07-18.01.03:521][ 67]LogModuleManager: Shutting down and abandoning module Networking (224)
+[2023.09.07-18.01.03:521][ 67]LogModuleManager: Shutting down and abandoning module Core (222)
+[2023.09.07-18.01.03:521][ 67]LogModuleManager: Shutting down and abandoning module MaterialEditor (220)
+[2023.09.07-18.01.03:521][ 67]LogModuleManager: Shutting down and abandoning module MovieSceneTools (218)
+[2023.09.07-18.01.03:521][ 67]LogModuleManager: Shutting down and abandoning module CurveEditor (217)
+[2023.09.07-18.01.03:521][ 67]LogModuleManager: Shutting down and abandoning module Sequencer (215)
+[2023.09.07-18.01.03:521][ 67]LogModuleManager: Shutting down and abandoning module EditorStyle (214)
+[2023.09.07-18.01.03:521][ 67]LogModuleManager: Shutting down and abandoning module KismetCompiler (210)
+[2023.09.07-18.01.03:521][ 67]LogModuleManager: Shutting down and abandoning module MeshBuilder (208)
+[2023.09.07-18.01.03:521][ 67]LogModuleManager: Shutting down and abandoning module NaniteBuilder (206)
+[2023.09.07-18.01.03:521][ 67]LogModuleManager: Shutting down and abandoning module MeshUtilities (204)
+[2023.09.07-18.01.03:521][ 67]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (203)
+[2023.09.07-18.01.03:521][ 67]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (202)
+[2023.09.07-18.01.03:521][ 67]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (201)
+[2023.09.07-18.01.03:521][ 67]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (199)
+[2023.09.07-18.01.03:521][ 67]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (197)
+[2023.09.07-18.01.03:521][ 67]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (195)
+[2023.09.07-18.01.03:521][ 67]LogModuleManager: Shutting down and abandoning module MaterialBaking (191)
+[2023.09.07-18.01.03:521][ 67]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (186)
+[2023.09.07-18.01.03:521][ 67]LogModuleManager: Shutting down and abandoning module DerivedDataCache (184)
+[2023.09.07-18.01.03:523][ 67]LogModuleManager: Shutting down and abandoning module TargetPlatform (182)
+[2023.09.07-18.01.03:523][ 67]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (181)
+[2023.09.07-18.01.03:523][ 67]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (179)
+[2023.09.07-18.01.03:523][ 67]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (177)
+[2023.09.07-18.01.03:523][ 67]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (175)
+[2023.09.07-18.01.03:523][ 67]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (173)
+[2023.09.07-18.01.03:523][ 67]LogModuleManager: Shutting down and abandoning module AudioFormatBink (171)
+[2023.09.07-18.01.03:523][ 67]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (169)
+[2023.09.07-18.01.03:523][ 67]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (167)
+[2023.09.07-18.01.03:523][ 67]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (165)
+[2023.09.07-18.01.03:523][ 67]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (163)
+[2023.09.07-18.01.03:523][ 67]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (161)
+[2023.09.07-18.01.03:523][ 67]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (159)
+[2023.09.07-18.01.03:523][ 67]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (157)
+[2023.09.07-18.01.03:523][ 67]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (155)
+[2023.09.07-18.01.03:523][ 67]LogModuleManager: Shutting down and abandoning module HoloLensTargetPlatform (153)
+[2023.09.07-18.01.03:523][ 67]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (151)
+[2023.09.07-18.01.03:523][ 67]LogModuleManager: Shutting down and abandoning module TextureFormat (149)
+[2023.09.07-18.01.03:523][ 67]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (148)
+[2023.09.07-18.01.03:523][ 67]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (146)
+[2023.09.07-18.01.03:523][ 67]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (144)
+[2023.09.07-18.01.03:524][ 67]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (142)
+[2023.09.07-18.01.03:524][ 67]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (140)
+[2023.09.07-18.01.03:524][ 67]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (138)
+[2023.09.07-18.01.03:524][ 67]LogModuleManager: Shutting down and abandoning module ImageWrapper (137)
+[2023.09.07-18.01.03:524][ 67]LogModuleManager: Shutting down and abandoning module TurnkeySupport (133)
+[2023.09.07-18.01.03:524][ 67]LogModuleManager: Shutting down and abandoning module InputCore (130)
+[2023.09.07-18.01.03:524][ 67]LogModuleManager: Shutting down and abandoning module Settings (128)
+[2023.09.07-18.01.03:524][ 67]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (126)
+[2023.09.07-18.01.03:524][ 67]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (124)
+[2023.09.07-18.01.03:524][ 67]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (123)
+[2023.09.07-18.01.03:524][ 67]LogModuleManager: Shutting down and abandoning module Chaos (120)
+[2023.09.07-18.01.03:524][ 67]LogModuleManager: Shutting down and abandoning module GeometryCore (119)
+[2023.09.07-18.01.03:524][ 67]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (116)
+[2023.09.07-18.01.03:524][ 67]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (115)
+[2023.09.07-18.01.03:524][ 67]LogModuleManager: Shutting down and abandoning module AVEncoder (114)
+[2023.09.07-18.01.03:524][ 67]LogModuleManager: Shutting down and abandoning module D3D12RHI (110)
+[2023.09.07-18.01.03:524][ 67]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (108)
+[2023.09.07-18.01.03:524][ 67]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (106)
+[2023.09.07-18.01.03:524][ 67]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (104)
+[2023.09.07-18.01.03:524][ 67]LogModuleManager: Shutting down and abandoning module HairStrandsCore (102)
+[2023.09.07-18.01.03:524][ 67]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (100)
+[2023.09.07-18.01.03:524][ 67]LogModuleManager: Shutting down and abandoning module ChunkDownloader (98)
+[2023.09.07-18.01.03:524][ 67]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (96)
+[2023.09.07-18.01.03:524][ 67]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (94)
+[2023.09.07-18.01.03:524][ 67]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (92)
+[2023.09.07-18.01.03:525][ 67]LogModuleManager: Shutting down and abandoning module XMPP (87)
+[2023.09.07-18.01.03:525][ 67]LogModuleManager: Shutting down and abandoning module WebSockets (86)
+[2023.09.07-18.01.03:545][ 67]LogModuleManager: Shutting down and abandoning module HTTP (83)
+[2023.09.07-18.01.03:545][ 67]LogHttp: Warning: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2023.09.07-18.01.03:545][ 67]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5622333C-46C3-DDC4-F5C3-9193A96C71D8%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=53c83cc34945f5a86b72238018bf73ec%7Cac1282457d10474fb0fc1fe8402b412b%7C12ebc755-3600-45a7-a9ff-0e74f8cd4019&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2023.09.07-18.01.03:545][ 67]LogHttp: Warning: Cleaning up 1 outstanding Http requests.
+[2023.09.07-18.01.03:577][ 67]LogModuleManager: Shutting down and abandoning module SSL (82)
+[2023.09.07-18.01.03:578][ 67]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2023.09.07-18.01.03:578][ 67]LogModuleManager: Shutting down and abandoning module WmfMedia (76)
+[2023.09.07-18.01.03:580][ 67]LogModuleManager: Shutting down and abandoning module Media (75)
+[2023.09.07-18.01.03:580][ 67]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (72)
+[2023.09.07-18.01.03:580][ 67]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (70)
+[2023.09.07-18.01.03:580][ 67]LogModuleManager: Shutting down and abandoning module NiagaraShader (68)
+[2023.09.07-18.01.03:580][ 67]LogModuleManager: Shutting down and abandoning module ChaosCloth (66)
+[2023.09.07-18.01.03:580][ 67]LogModuleManager: Shutting down and abandoning module PixWinPlugin (64)
+[2023.09.07-18.01.03:580][ 67]LogModuleManager: Shutting down and abandoning module VariantManagerContent (62)
+[2023.09.07-18.01.03:580][ 67]LogModuleManager: Shutting down and abandoning module DatasmithContent (60)
+[2023.09.07-18.01.03:581][ 67]LogModuleManager: Shutting down and abandoning module AISupportModule (58)
+[2023.09.07-18.01.03:581][ 67]LogModuleManager: Shutting down and abandoning module DesktopPlatform (56)
+[2023.09.07-18.01.03:581][ 67]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (54)
+[2023.09.07-18.01.03:581][ 67]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (52)
+[2023.09.07-18.01.03:581][ 67]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (50)
+[2023.09.07-18.01.03:581][ 67]LogModuleManager: Shutting down and abandoning module PlatformCrypto (48)
+[2023.09.07-18.01.03:581][ 67]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (46)
+[2023.09.07-18.01.03:581][ 67]LogModuleManager: Shutting down and abandoning module SourceControl (45)
+[2023.09.07-18.01.03:581][ 67]LogModuleManager: Shutting down and abandoning module XGEController (42)
+[2023.09.07-18.01.03:581][ 67]LogModuleManager: Shutting down and abandoning module FastBuildController (40)
+[2023.09.07-18.01.03:581][ 67]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2023.09.07-18.01.03:581][ 67]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2023.09.07-18.01.03:581][ 67]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2023.09.07-18.01.03:581][ 67]LogModuleManager: Shutting down and abandoning module Virtualization (32)
+[2023.09.07-18.01.03:581][ 67]LogModuleManager: Shutting down and abandoning module MessageLog (31)
+[2023.09.07-18.01.03:581][ 67]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2023.09.07-18.01.03:581][ 67]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2023.09.07-18.01.03:581][ 67]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2023.09.07-18.01.03:581][ 67]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2023.09.07-18.01.03:582][ 67]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2023.09.07-18.01.03:582][ 67]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2023.09.07-18.01.03:582][ 67]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2023.09.07-18.01.03:582][ 67]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2023.09.07-18.01.03:582][ 67]LogModuleManager: Shutting down and abandoning module SandboxFile (12)
+[2023.09.07-18.01.03:582][ 67]LogModuleManager: Shutting down and abandoning module PakFile (10)
+[2023.09.07-18.01.03:582][ 67]LogModuleManager: Shutting down and abandoning module RSA (9)
+[2023.09.07-18.01.03:582][ 67]LogModuleManager: Shutting down and abandoning module NetworkFile (6)
+[2023.09.07-18.01.03:582][ 67]LogModuleManager: Shutting down and abandoning module StreamingFile (4)
+[2023.09.07-18.01.03:582][ 67]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2023.09.07-18.01.03:604][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: 189 items to release
+[2023.09.07-18.01.03:604][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer0", 2576 x 1416 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2023.09.07-18.01.03:604][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer1", 2576 x 1416 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2023.09.07-18.01.03:604][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer2", 2576 x 1416 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2023.09.07-18.01.03:605][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene view state exposure readback", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.09.07-18.01.03:606][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene view state exposure readback", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.09.07-18.01.03:606][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene view state exposure readback", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.09.07-18.01.03:606][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene view state exposure readback", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.09.07-18.01.03:606][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "HitProxyCPUTexture", 10338264 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.09.07-18.01.03:606][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "HitProxyTexture", 2038 x 1262 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:606][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "BufferedRT", 2038 x 1262 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2023.09.07-18.01.03:606][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.VoxelVisBuffer", 25165824 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2023.09.07-18.01.03:606][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer0", 512 x 256 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2023.09.07-18.01.03:606][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer1", 512 x 256 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2023.09.07-18.01.03:606][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer2", 512 x 256 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2023.09.07-18.01.03:607][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Heightmap RT Combined Atlas_0", 2048 x 2048 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:608][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Heightmap RT Combined Non Atlas_1", 2048 x 2048 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:608][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Heightmap RT Scratch 1_2", 2048 x 2048 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:608][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Heightmap RT Scratch 2_3", 2048 x 2048 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:608][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Heightmap RT Scratch 3_4", 2048 x 2048 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:608][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Heightmap RT Mip 1_5", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:608][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Heightmap RT Mip 2_6", 512 x 512 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:608][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Heightmap RT Mip 3_7", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:608][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Heightmap RT Mip 4_8", 128 x 128 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:608][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Heightmap RT Mip 5_9", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:609][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Heightmap RT Mip 6_10", 32 x 32 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:609][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Heightmap RT Mip 7_11", 16 x 16 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:609][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Weightmap RT Scratch RGBA_12", 2048 x 2048 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:609][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Weightmap RT Scratch 1_13", 2048 x 2048 x 1, Mips: 1, Format: 0x3D, Flags: 0x1
+[2023.09.07-18.01.03:609][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Weightmap RT Scratch 2_14", 2048 x 2048 x 1, Mips: 1, Format: 0x3D, Flags: 0x1
+[2023.09.07-18.01.03:609][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Weightmap RT Scratch 3_15", 2048 x 2048 x 1, Mips: 1, Format: 0x3D, Flags: 0x1
+[2023.09.07-18.01.03:609][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Weightmap RT Mip 0_16", 2048 x 2048 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:609][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Weightmap RT Mip 1_17", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:610][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Weightmap RT Mip 2_18", 512 x 512 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:610][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Weightmap RT Mip 3_19", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:610][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Weightmap RT Mip 4_20", 128 x 128 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:610][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Weightmap RT Mip 5_21", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:610][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Weightmap RT Mip 6_22", 32 x 32 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:610][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Weightmap RT Mip 7_23", 16 x 16 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:611][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "TextureRenderTarget2D_4", 256 x 256 x 1, Mips: 1, Format: 0x36, Flags: 0x1
+[2023.09.07-18.01.03:611][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.09.07-18.01.03:611][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.09.07-18.01.03:611][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.09.07-18.01.03:611][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.09.07-18.01.03:611][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:611][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:611][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.09.07-18.01.03:612][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.09.07-18.01.03:613][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.09.07-18.01.03:613][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.09.07-18.01.03:613][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:613][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:613][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.09.07-18.01.03:613][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.09.07-18.01.03:613][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.09.07-18.01.03:614][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.09.07-18.01.03:614][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:614][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:614][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "FLandscapeTexture2DArrayResource", 2048 x 2048 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2023.09.07-18.01.03:614][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "FLandscapeTexture2DArrayResource", 2048 x 2048 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2023.09.07-18.01.03:614][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "FLandscapeTexture2DResource", 2048 x 2048 x 1, Mips: 8, Format: 0x1B, Flags: 0x5
+[2023.09.07-18.01.03:614][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "TextureRenderTarget2D_2931", 256 x 256 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.09.07-18.01.03:614][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "TextureRenderTarget2D_2932", 256 x 256 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.09.07-18.01.03:614][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "TextureRenderTarget2D_2933", 256 x 256 x 1, Mips: 1, Format: 0x22, Flags: 0x1
+[2023.09.07-18.01.03:615][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "TextureRenderTarget2D_2934", 256 x 256 x 1, Mips: 1, Format: 0x22, Flags: 0x1
+[2023.09.07-18.01.03:615][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "TextureRenderTarget2D_2935", 256 x 256 x 1, Mips: 1, Format: 0x36, Flags: 0x1
+[2023.09.07-18.01.03:615][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:615][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:615][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:615][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:615][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:615][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:615][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:615][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:616][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:616][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:616][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:616][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:616][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:616][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:616][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:616][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:616][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:616][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:617][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:617][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:617][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:617][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:617][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:617][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:617][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:617][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:617][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:617][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:617][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "PrimitiveSceneDataTexture", 40 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2023.09.07-18.01.03:618][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "PrimitiveSceneDataTexture", 40 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2023.09.07-18.01.03:618][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleCurveTexture", 512 x 512 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:618][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.SkyViewLut", 192 x 104 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.09.07-18.01.03:618][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.CameraAPVolume0", 32 x 32 x 16, Mips: 1, Format: 0xA, Flags: 0x4
+[2023.09.07-18.01.03:618][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalDistanceFieldPageAtlas", 512 x 512 x 256, Mips: 1, Format: 0x3D, Flags: 0x4
+[2023.09.07-18.01.03:618][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalDistanceFieldCoverageAtlas", 256 x 256 x 128, Mips: 1, Format: 0x3D, Flags: 0x4
+[2023.09.07-18.01.03:618][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFieldPageTableCombined", 16 x 16 x 64, Mips: 1, Format: 0x39, Flags: 0x4
+[2023.09.07-18.01.03:619][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalSDFMipTexture", 56 x 56 x 224, Mips: 1, Format: 0x3D, Flags: 0x4
+[2023.09.07-18.01.03:619][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalDistanceFieldPageTableStationaryLayer", 16 x 16 x 64, Mips: 1, Format: 0x39, Flags: 0x4
+[2023.09.07-18.01.03:619][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalDistanceFieldPageTableMovableLayer", 16 x 16 x 64, Mips: 1, Format: 0x39, Flags: 0x4
+[2023.09.07-18.01.03:619][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.VoxelLighting", 64 x 256 x 384, Mips: 1, Format: 0xA, Flags: 0x4
+[2023.09.07-18.01.03:619][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.DepthProbeAtlasTexture", 1024 x 1024 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2023.09.07-18.01.03:620][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeAtlasTextureSource", 1024 x 1024 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.09.07-18.01.03:620][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.FinalRadianceAtlas", 2048 x 2048 x 1, Mips: 3, Format: 0x1A, Flags: 0x4
+[2023.09.07-18.01.03:620][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "LightShaft.TemporalAA", 692 x 428 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2023.09.07-18.01.03:620][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "OctahedralSolidAngleTexture", 16 x 16 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2023.09.07-18.01.03:620][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.DepthProbeAtlasTexture", 4096 x 4096 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2023.09.07-18.01.03:620][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeAtlasTextureSource", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.09.07-18.01.03:621][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.FinalRadianceAtlas", 4352 x 4352 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.09.07-18.01.03:621][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.Tracing", 346 x 214 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2023.09.07-18.01.03:621][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.TracingDepth", 346 x 214 x 1, Mips: 1, Format: 0x22, Flags: 0x5
+[2023.09.07-18.01.03:622][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.Reconstruct", 691 x 428 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.09.07-18.01.03:622][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.ReconstructDepth", 691 x 428 x 1, Mips: 1, Format: 0x22, Flags: 0x1
+[2023.09.07-18.01.03:622][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "EyeAdaptation", 1 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x5
+[2023.09.07-18.01.03:622][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "CombineLUTs", 32 x 32 x 32, Mips: 1, Format: 0x18, Flags: 0x1
+[2023.09.07-18.01.03:622][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "EyeAdaptation", 1 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x5
+[2023.09.07-18.01.03:622][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.NumHistoryFramesAccumulated", 1384 x 856 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2023.09.07-18.01.03:622][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "SceneColor", 1384 x 856 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2023.09.07-18.01.03:622][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeIndirectionTexture", 72 x 24 x 24, Mips: 1, Format: 0x2A, Flags: 0x4
+[2023.09.07-18.01.03:623][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.TranslucencyVolume.SHLightingNewHistory0", 44 x 27 x 26, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.09.07-18.01.03:623][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.DepthHistory", 1384 x 856 x 1, Mips: 1, Format: 0x29, Flags: 0x4
+[2023.09.07-18.01.03:623][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.TranslucencyVolume.SHLightingNewHistory0", 44 x 27 x 26, Mips: 1, Format: 0xA, Flags: 0x4
+[2023.09.07-18.01.03:623][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeIndirectionTexture", 192 x 48 x 48, Mips: 1, Format: 0x2A, Flags: 0x4
+[2023.09.07-18.01.03:623][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeFilteredRadiance", 696 x 648 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.09.07-18.01.03:623][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.LowFrequencies", 2040 x 1264 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.09.07-18.01.03:623][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeSceneDepth", 87 x 81 x 1, Mips: 1, Format: 0x2A, Flags: 0x4
+[2023.09.07-18.01.03:623][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeTranslatedWorldPosition", 87 x 81 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2023.09.07-18.01.03:623][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.ReconstructDepth", 691 x 428 x 1, Mips: 1, Format: 0x22, Flags: 0x1
+[2023.09.07-18.01.03:623][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "GBufferA", 1384 x 856 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2023.09.07-18.01.03:624][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.Reconstruct", 691 x 428 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.09.07-18.01.03:624][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.RoughSpecularIndirect", 1384 x 856 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.09.07-18.01.03:624][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.NumHistoryFramesAccumulated", 1384 x 856 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2023.09.07-18.01.03:624][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.DiffuseIndirect", 1384 x 856 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2023.09.07-18.01.03:624][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.FastUpdateMode", 1384 x 856 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2023.09.07-18.01.03:624][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Editor.PrimitivesDepthHistory", 4080 x 2528 x 1, Mips: 1, Format: 0x29, Flags: 0x1
+[2023.09.07-18.01.03:624][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.AccumulatedResolveVariance", 1384 x 856 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2023.09.07-18.01.03:624][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.SpecularIndirect", 1384 x 856 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2023.09.07-18.01.03:625][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.Output", 2040 x 1264 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.09.07-18.01.03:625][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.Metadata", 2040 x 1264 x 1, Mips: 1, Format: 0x31, Flags: 0x4
+[2023.09.07-18.01.03:625][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.SubpixelInfo", 2040 x 1264 x 1, Mips: 1, Format: 0x39, Flags: 0x4
+[2023.09.07-18.01.03:625][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.Translucency", 2040 x 1264 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.09.07-18.01.03:625][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.TranslucencyAlpha", 2040 x 1264 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2023.09.07-18.01.03:625][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.HighFrequencies", 2040 x 1264 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.09.07-18.01.03:625][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.TransmittanceLut", 256 x 64 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.09.07-18.01.03:626][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.MultiScatteredLuminanceLut", 32 x 32 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.09.07-18.01.03:626][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.DistantSkyLightLut", 1 x 1 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.09.07-18.01.03:626][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Shadow.Virtual.PhysicalPagePool", 16384 x 4096 x 1, Mips: 1, Format: 0x2A, Flags: 0x4
+[2023.09.07-18.01.03:627][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2023.09.07-18.01.03:628][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneAlbedo", 4096 x 4096 x 1, Mips: 1, Format: 0x61, Flags: 0x0
+[2023.09.07-18.01.03:628][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneOpacity", 4096 x 4096 x 1, Mips: 1, Format: 0x50, Flags: 0x0
+[2023.09.07-18.01.03:628][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneDepth", 4096 x 4096 x 1, Mips: 1, Format: 0x23, Flags: 0x1
+[2023.09.07-18.01.03:628][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneNormal", 4096 x 4096 x 1, Mips: 1, Format: 0x53, Flags: 0x0
+[2023.09.07-18.01.03:628][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneEmissive", 4096 x 4096 x 1, Mips: 1, Format: 0x5F, Flags: 0x0
+[2023.09.07-18.01.03:629][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneDirectLighting", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x5
+[2023.09.07-18.01.03:629][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneIndirectLighting", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x5
+[2023.09.07-18.01.03:629][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneNumFramesAccumulatedAtlas", 4096 x 4096 x 1, Mips: 1, Format: 0x3D, Flags: 0x5
+[2023.09.07-18.01.03:629][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneFinalLighting", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x5
+[2023.09.07-18.01.03:629][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Radiosity.ProbeSHBlueAtlas", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2023.09.07-18.01.03:630][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Radiosity.ProbeSHGreenAtlas", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2023.09.07-18.01.03:630][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyLight.ConvolvedSkyRenderTarget0", 128 x 128 x 6, Mips: 8, Format: 0x1A, Flags: 0x5
+[2023.09.07-18.01.03:630][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyLight.CapturedSkyRenderTarget", 128 x 128 x 6, Mips: 8, Format: 0x1A, Flags: 0x5
+[2023.09.07-18.01.03:630][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyLight.ConvolvedSkyRenderTarget1", 128 x 128 x 6, Mips: 8, Format: 0x1A, Flags: 0x5
+[2023.09.07-18.01.03:630][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Radiosity.ProbeSHRedAtlas", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2023.09.07-18.01.03:630][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Radiosity.TraceRadianceAtlas", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.09.07-18.01.03:630][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.RealTimeSkyCapCamera360APLut", 32 x 32 x 16, Mips: 1, Format: 0xA, Flags: 0x4
+[2023.09.07-18.01.03:631][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2023.09.07-18.01.03:631][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.RealTimeSkyCapViewLut", 192 x 104 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.09.07-18.01.03:631][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2023.09.07-18.01.03:631][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Dummy", 1 x 1 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2023.09.07-18.01.03:631][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "HairLUT0", 1 x 1 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.09.07-18.01.03:631][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Hair.LUT(DualScattering)", 64 x 64 x 16, Mips: 1, Format: 0xA, Flags: 0x4
+[2023.09.07-18.01.03:631][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkySHIrradiance", 9 x 1 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.09.07-18.01.03:631][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "DiffuseIrradianceScratchCubemap1", 32 x 32 x 6, Mips: 6, Format: 0xA, Flags: 0x1
+[2023.09.07-18.01.03:631][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "DiffuseIrradianceScratchCubemap0", 32 x 32 x 6, Mips: 6, Format: 0xA, Flags: 0x1
+[2023.09.07-18.01.03:631][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "ReflectionColorScratchCubemap1", 128 x 128 x 6, Mips: 8, Format: 0xA, Flags: 0x1
+[2023.09.07-18.01.03:632][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "ReflectionColorScratchCubemap0", 128 x 128 x 6, Mips: 8, Format: 0xA, Flags: 0x1
+[2023.09.07-18.01.03:632][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Nanite.SafeMainRasterizeArgsSWHW", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2023.09.07-18.01.03:632][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Nanite.MainRasterizeArgsSWHW", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2023.09.07-18.01.03:632][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "InstanceCulling.DrawIndirectArgsBuffer", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2023.09.07-18.01.03:632][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "Nanite.MainAndPostNodesAndClusterBatchesBuffer", 44040192 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2023.09.07-18.01.03:633][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.09.07-18.01.03:633][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.09.07-18.01.03:633][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.09.07-18.01.03:633][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.09.07-18.01.03:633][ 67]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.09.07-18.01.03:725][ 67]LogD3D12RHI: ~FD3D12DynamicRHI
+[2023.09.07-18.01.03:725][ 67]LogExit: Exiting.
+[2023.09.07-18.01.03:734][ 67]Log file closed, 09/07/23 15:01:03
